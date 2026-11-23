@@ -1,0 +1,201 @@
+id,text,is_meaningful,category
+QM072,Great doctor,true,short_valid
+QM045,Nurses responded quickly to the bedside call bell.,true,english_valid
+QM001,Slow lab,true,short_valid
+QJ064,qpxztrm fghjkl,false,keyboard_mashing
+QM081,Slow lab,true,short_valid
+QJ044,..,false,too_short
+QM032,Great doctor,true,short_valid
+QJ039,-------,false,repeated_characters
+QJ041,asdfghjkl,false,keyboard_mashing
+QM092,Great doctor,true,short_valid
+QM060,وقت الانتظار في العيادة كان طويلا جدا.,true,arabic_valid
+QM035,Nurses responded quickly to the bedside call bell.,true,english_valid
+QJ098,okay,false,filler_or_test_text
+QJ022,..,false,too_short
+QM018,ആശുപത്രി മുറി വളരെ വൃത്തിയുള്ളതായിരുന്നു.,true,malayalam_valid
+QJ058,none,false,filler_or_test_text
+QM036,Basement parking was completely full at 9 AM.,true,english_valid
+QM100,وقت الانتظار في العيادة كان طويلا جدا.,true,arabic_valid
+QJ096,12345,false,numbers_only
+QJ097,ok,false,filler_or_test_text
+QM054,"Ok consultation, however pharmacy queue was huge.",true,ok_inside_sentence
+QM057,"Doctor nalla care aanu, pakshe billing slow aayirunnu.",true,manglish_valid
+QJ004,👎👎,false,lone_emoji_or_symbols
+QM047,"Doctor nalla care aanu, pakshe billing slow aayirunnu.",true,manglish_valid
+QJ036,none,false,filler_or_test_text
+QJ005,!!!...,false,lone_emoji_or_symbols
+QM025,Nurses responded quickly to the bedside call bell.,true,english_valid
+QM028,ആശുപത്രി മുറി വളരെ വൃത്തിയുള്ളതായിരുന്നു.,true,malayalam_valid
+QM083,Dirty toilet,true,short_valid
+QJ050,987654,false,numbers_only
+QM006,Basement parking was completely full at 9 AM.,true,english_valid
+QM011,Slow lab,true,short_valid
+QM062,Great doctor,true,short_valid
+QJ077,nil,false,filler_or_test_text
+QM098,ആശുപത്രി മുറി വളരെ വൃത്തിയുള്ളതായിരുന്നു.,true,malayalam_valid
+QJ032,okay,false,filler_or_test_text
+QJ040,zxcvbnm,false,keyboard_mashing
+QJ072,987654,false,numbers_only
+QJ010,okay,false,filler_or_test_text
+QM039,नर्सिंग स्टाफ बहुत विनम्र और मददगार था।,true,hindi_valid
+QJ047,👍,false,lone_emoji_or_symbols
+QM077,"Doctor nalla care aanu, pakshe billing slow aayirunnu.",true,manglish_valid
+QM058,ആശുപത്രി മുറി വളരെ വൃത്തിയുള്ളതായിരുന്നു.,true,malayalam_valid
+QM097,"Doctor nalla care aanu, pakshe billing slow aayirunnu.",true,manglish_valid
+QM017,"Doctor nalla care aanu, pakshe billing slow aayirunnu.",true,manglish_valid
+QJ007,5/5,false,numbers_only
+QJ082,aaaaaaaa,false,repeated_characters
+QM076,Basement parking was completely full at 9 AM.,true,english_valid
+QJ052,12345,false,numbers_only
+QM051,Slow lab,true,short_valid
+QM015,Nurses responded quickly to the bedside call bell.,true,english_valid
+QJ099,nil,false,filler_or_test_text
+QM094,"Ok consultation, however pharmacy queue was huge.",true,ok_inside_sentence
+QJ028,987654,false,numbers_only
+QJ031,ok,false,filler_or_test_text
+QJ043,hi,false,too_short
+QJ063,asdfghjkl,false,keyboard_mashing
+QM021,Slow lab,true,short_valid
+QM059,नर्सिंग स्टाफ बहुत विनम्र और मददगार था।,true,hindi_valid
+QJ095,5/5,false,numbers_only
+QM078,ആശുപത്രി മുറി വളരെ വൃത്തിയുള്ളതായിരുന്നു.,true,malayalam_valid
+QJ057,dummy,false,filler_or_test_text
+QJ093,!!!...,false,lone_emoji_or_symbols
+QM024,"Ok consultation, however pharmacy queue was huge.",true,ok_inside_sentence
+QJ081,bbbbbbb,false,repeated_characters
+QM003,Dirty toilet,true,short_valid
+QJ089,,false,missing_or_empty_text
+QM020,وقت الانتظار في العيادة كان طويلا جدا.,true,arabic_valid
+QM027,"Doctor nalla care aanu, pakshe billing slow aayirunnu.",true,manglish_valid
+QM022,Great doctor,true,short_valid
+QM007,"Doctor nalla care aanu, pakshe billing slow aayirunnu.",true,manglish_valid
+QJ068,   ,false,missing_or_empty_text
+QJ075,ok,false,filler_or_test_text
+QM086,Basement parking was completely full at 9 AM.,true,english_valid
+QJ018,zxcvbnm,false,keyboard_mashing
+QJ094,987654,false,numbers_only
+QM029,नर्सिंग स्टाफ बहुत विनम्र और मददगार था।,true,hindi_valid
+QJ009,ok,false,filler_or_test_text
+QM063,Dirty toilet,true,short_valid
+QJ027,!!!...,false,lone_emoji_or_symbols
+QJ061,-------,false,repeated_characters
+QM044,"Ok consultation, however pharmacy queue was huge.",true,ok_inside_sentence
+QM099,नर्सिंग स्टाफ बहुत विनम्र और मददगार था।,true,hindi_valid
+QM064,"Ok consultation, however pharmacy queue was huge.",true,ok_inside_sentence
+QJ021,hi,false,too_short
+QJ030,12345,false,numbers_only
+QJ017,-------,false,repeated_characters
+QJ053,ok,false,filler_or_test_text
+QJ016,aaaaaaaa,false,repeated_characters
+QJ033,nil,false,filler_or_test_text
+QJ013,dummy,false,filler_or_test_text
+QM065,Nurses responded quickly to the bedside call bell.,true,english_valid
+QM073,Dirty toilet,true,short_valid
+QM087,"Doctor nalla care aanu, pakshe billing slow aayirunnu.",true,manglish_valid
+QM056,Basement parking was completely full at 9 AM.,true,english_valid
+QJ080,none,false,filler_or_test_text
+QM031,Slow lab,true,short_valid
+QJ074,12345,false,numbers_only
+QM084,"Ok consultation, however pharmacy queue was huge.",true,ok_inside_sentence
+QJ088,..,false,too_short
+QJ092,👎👎,false,lone_emoji_or_symbols
+QJ003,👍,false,lone_emoji_or_symbols
+QJ060,aaaaaaaa,false,repeated_characters
+QM089,नर्सिंग स्टाफ बहुत विनम्र और मददगार था।,true,hindi_valid
+QJ084,zxcvbnm,false,keyboard_mashing
+QM046,Basement parking was completely full at 9 AM.,true,english_valid
+QM085,Nurses responded quickly to the bedside call bell.,true,english_valid
+QJ073,5/5,false,numbers_only
+QJ038,aaaaaaaa,false,repeated_characters
+QM067,"Doctor nalla care aanu, pakshe billing slow aayirunnu.",true,manglish_valid
+QM091,Slow lab,true,short_valid
+QM066,Basement parking was completely full at 9 AM.,true,english_valid
+QJ085,asdfghjkl,false,keyboard_mashing
+QM088,ആശുപത്രി മുറി വളരെ വൃത്തിയുള്ളതായിരുന്നു.,true,malayalam_valid
+QM016,Basement parking was completely full at 9 AM.,true,english_valid
+QM014,"Ok consultation, however pharmacy queue was huge.",true,ok_inside_sentence
+QM090,وقت الانتظار في العيادة كان طويلا جدا.,true,arabic_valid
+QM048,ആശുപത്രി മുറി വളരെ വൃത്തിയുള്ളതായിരുന്നു.,true,malayalam_valid
+QJ045,,false,missing_or_empty_text
+QJ066,..,false,too_short
+QM061,Slow lab,true,short_valid
+QJ015,bbbbbbb,false,repeated_characters
+QJ056,testing,false,filler_or_test_text
+QM038,ആശുപത്രി മുറി വളരെ വൃത്തിയുള്ളതായിരുന്നു.,true,malayalam_valid
+QM082,Great doctor,true,short_valid
+QM026,Basement parking was completely full at 9 AM.,true,english_valid
+QJ059,bbbbbbb,false,repeated_characters
+QJ019,asdfghjkl,false,keyboard_mashing
+QJ091,👍,false,lone_emoji_or_symbols
+QM095,Nurses responded quickly to the bedside call bell.,true,english_valid
+QJ011,nil,false,filler_or_test_text
+QM042,Great doctor,true,short_valid
+QJ079,dummy,false,filler_or_test_text
+QM079,नर्सिंग स्टाफ बहुत विनम्र और मददगार था।,true,hindi_valid
+QM080,وقت الانتظار في العيادة كان طويلا جدا.,true,arabic_valid
+QJ067,,false,missing_or_empty_text
+QM012,Great doctor,true,short_valid
+QJ062,zxcvbnm,false,keyboard_mashing
+QM019,नर्सिंग स्टाफ बहुत विनम्र और मददगार था।,true,hindi_valid
+QM049,नर्सिंग स्टाफ बहुत विनम्र और मददगार था।,true,hindi_valid
+QM008,ആശുപത്രി മുറി വളരെ വൃത്തിയുള്ളതായിരുന്നു.,true,malayalam_valid
+QJ051,5/5,false,numbers_only
+QJ065,hi,false,too_short
+QJ090,   ,false,missing_or_empty_text
+QJ083,-------,false,repeated_characters
+QM034,"Ok consultation, however pharmacy queue was huge.",true,ok_inside_sentence
+QJ008,12345,false,numbers_only
+QJ076,okay,false,filler_or_test_text
+QJ055,nil,false,filler_or_test_text
+QM074,"Ok consultation, however pharmacy queue was huge.",true,ok_inside_sentence
+QJ029,5/5,false,numbers_only
+QJ100,testing,false,filler_or_test_text
+QM041,Slow lab,true,short_valid
+QJ042,qpxztrm fghjkl,false,keyboard_mashing
+QM055,Nurses responded quickly to the bedside call bell.,true,english_valid
+QM010,وقت الانتظار في العيادة كان طويلا جدا.,true,arabic_valid
+QM013,Dirty toilet,true,short_valid
+QM009,नर्सिंग स्टाफ बहुत विनम्र और मददगार था।,true,hindi_valid
+QM093,Dirty toilet,true,short_valid
+QJ070,👎👎,false,lone_emoji_or_symbols
+QJ014,none,false,filler_or_test_text
+QJ020,qpxztrm fghjkl,false,keyboard_mashing
+QJ054,okay,false,filler_or_test_text
+QM052,Great doctor,true,short_valid
+QM040,وقت الانتظار في العيادة كان طويلا جدا.,true,arabic_valid
+QJ087,hi,false,too_short
+QJ071,!!!...,false,lone_emoji_or_symbols
+QJ012,testing,false,filler_or_test_text
+QM043,Dirty toilet,true,short_valid
+QJ069,👍,false,lone_emoji_or_symbols
+QM005,Nurses responded quickly to the bedside call bell.,true,english_valid
+QJ078,testing,false,filler_or_test_text
+QJ034,testing,false,filler_or_test_text
+QM030,وقت الانتظار في العيادة كان طويلا جدا.,true,arabic_valid
+QJ037,bbbbbbb,false,repeated_characters
+QJ049,!!!...,false,lone_emoji_or_symbols
+QJ048,👎👎,false,lone_emoji_or_symbols
+QM070,وقت الانتظار في العيادة كان طويلا جدا.,true,arabic_valid
+QM050,وقت الانتظار في العيادة كان طويلا جدا.,true,arabic_valid
+QM069,नर्सिंग स्टाफ बहुत विनम्र और मददगार था।,true,hindi_valid
+QJ046,   ,false,missing_or_empty_text
+QJ002,   ,false,missing_or_empty_text
+QM037,"Doctor nalla care aanu, pakshe billing slow aayirunnu.",true,manglish_valid
+QM096,Basement parking was completely full at 9 AM.,true,english_valid
+QM023,Dirty toilet,true,short_valid
+QM071,Slow lab,true,short_valid
+QM068,ആശുപത്രി മുറി വളരെ വൃത്തിയുള്ളതായിരുന്നു.,true,malayalam_valid
+QJ006,987654,false,numbers_only
+QJ026,👎👎,false,lone_emoji_or_symbols
+QM002,Great doctor,true,short_valid
+QJ035,dummy,false,filler_or_test_text
+QJ086,qpxztrm fghjkl,false,keyboard_mashing
+QJ025,👍,false,lone_emoji_or_symbols
+QM053,Dirty toilet,true,short_valid
+QM075,Nurses responded quickly to the bedside call bell.,true,english_valid
+QJ024,   ,false,missing_or_empty_text
+QM033,Dirty toilet,true,short_valid
+QJ001,,false,missing_or_empty_text
+QM004,"Ok consultation, however pharmacy queue was huge.",true,ok_inside_sentence
+QJ023,,false,missing_or_empty_text

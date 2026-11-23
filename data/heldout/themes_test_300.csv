@@ -1,0 +1,301 @@
+id,text,themes
+T001,"Cafeteria served stale snacks and cold tea at high prices, however pathology lab misplaced my sample and demanded a repeat draw.",food|reports and lab
+T002,Registration receptionist rolled her eyes and spoke harshly to us. Very frustrating.,staff behaviour
+T003,Hospital pharmacy did not stock half of my prescribed tablets. This morning.,pharmacy
+T004,"Queue did not budge for almost two hours during morning check-in, however ward nurse inserted the IV cannula roughly and left it bleeding.",nursing care|waiting time
+T005,Queue did not budge for almost two hours during morning check-in. On Monday.,waiting time
+T006,"Front desk staff were not rude at all and got my file ready fast, but single open pharmacy window created a massive medicine queue.",pharmacy
+T007,MRI report delivery was delayed and held up my review visit. Yesterday.,reports and lab
+T008,Sat outside the clinic for 110 minutes past my scheduled token. Very frustrating.,waiting time
+T009,Dispensing counter gave zero instructions on storing the insulin. Very frustrating.,pharmacy
+T010,Sat outside the clinic for 110 minutes past my scheduled token.,waiting time
+T011,Duty nurses ignored the empty saline drip until we called them. Very frustrating.,nursing care
+T012,"Nurses were not careless and monitored the drip gently, but no wheelchair was ready at the emergency gate for my father.",facilities and parking
+T013,"No waiting delay today and billing settlement was transparent, but hospital pharmacy did not stock half of my prescribed tablets.",pharmacy
+T014,"Doctor was calm and clear, rooms were spotless, and pharmacy was quick.",
+T015,"Found stained bedsheets and dusty floors inside the private ward, however my follow-up appointment was cancelled without any SMS alert.",appointments|cleanliness
+T016,Pressed the bedside nurse call bell three times with no response. On Monday.,nursing care
+T017,Helpdesk representative showed a dismissive attitude all morning. Very frustrating.,staff behaviour
+T018,Nurses were not careless and monitored the drip gently. On Monday.,
+T019,Pharmacist handed over the wrong dosage strip at pickup. This morning.,pharmacy
+T020,Hospital kitchen sent sugary dessert to a diabetic patient. Very frustrating.,food
+T021,Gate security was rude and argued when we asked for directions. This morning.,staff behaviour
+T022,Fasting blood report was still missing on the portal two days late.,reports and lab
+T023,Room floor stayed sticky and housekeeping never came to mop.,cleanliness
+T024,Front desk clerk snapped impatiently at an elderly visitor. Yesterday.,staff behaviour
+T025,Lab technician poked my vein three times during blood collection. On Monday.,reports and lab
+T026,No waiting delay today and billing settlement was transparent. On Monday.,
+T027,Sat outside the clinic for 110 minutes past my scheduled token. This morning.,waiting time
+T028,Front desk clerk snapped impatiently at an elderly visitor. Very frustrating.,staff behaviour
+T029,"Washroom near OPD was wet, smelly, and clearly uncleaned.",cleanliness
+T030,Final bill included unexplained charges and duplicate fees. Very frustrating.,billing and insurance
+T031,Gate security was rude and argued when we asked for directions. Yesterday.,staff behaviour
+T032,Inpatient dinner tray arrived lukewarm and the soup tasted sour. Very frustrating.,food
+T033,Breakfast delivery came ninety minutes late and was inedible. This morning.,food
+T034,Clinic overbooked the 10 AM appointment slot causing total chaos. Very frustrating.,appointments
+T035,"My follow-up appointment was cancelled without any SMS alert, however queue did not budge for almost two hours during morning check-in.",appointments|waiting time
+T036,Ward nurse inserted the IV cannula roughly and left it bleeding. Yesterday.,nursing care
+T037,MRI report delivery was delayed and held up my review visit. This morning.,reports and lab
+T038,Found stained bedsheets and dusty floors inside the private ward. Very frustrating.,cleanliness
+T039,Hospital kitchen sent sugary dessert to a diabetic patient. Yesterday.,food
+T040,Front desk clerk snapped impatiently at an elderly visitor.,staff behaviour
+T041,Room floor stayed sticky and housekeeping never came to mop. This morning.,cleanliness
+T042,"Pharmacist handed over the wrong dosage strip at pickup, however specialist barely listened and brushed aside my medication questions.",doctor communication|pharmacy
+T043,Final bill included unexplained charges and duplicate fees.,billing and insurance
+T044,Consultant gave a confusing treatment summary and hurried me out. This morning.,doctor communication
+T045,"Washroom near OPD was wet, smelly, and clearly uncleaned. On Monday.",cleanliness
+T046,Registration receptionist rolled her eyes and spoke harshly to us.,staff behaviour
+T047,"Doctor was calm and clear, rooms were spotless, and pharmacy was quick. On Monday.",
+T048,Hospital pharmacy did not stock half of my prescribed tablets.,pharmacy
+T049,Consultant gave a confusing treatment summary and hurried me out.,doctor communication
+T050,"Completed my routine vaccination visit without any problem, but front desk clerk snapped impatiently at an elderly visitor.",staff behaviour
+T051,Final bill included unexplained charges and duplicate fees. On Monday.,billing and insurance
+T052,Final bill included unexplained charges and duplicate fees. This morning.,billing and insurance
+T053,Accounts clerk refused to explain the overpriced consumables invoice. Very frustrating.,billing and insurance
+T054,Registration receptionist rolled her eyes and spoke harshly to us. Yesterday.,staff behaviour
+T055,Completed my routine vaccination visit without any problem. On Monday.,
+T056,Fasting blood report was still missing on the portal two days late. On Monday.,reports and lab
+T057,Cafeteria served stale snacks and cold tea at high prices. On Monday.,food
+T058,Accounts clerk refused to explain the overpriced consumables invoice. Yesterday.,billing and insurance
+T059,No wheelchair was ready at the emergency gate for my father.,facilities and parking
+T060,Broken air conditioning made the waiting hall unbearable. Very frustrating.,facilities and parking
+T061,No waiting delay today and billing settlement was transparent. Needs fixing.,
+T062,My follow-up appointment was cancelled without any SMS alert. Very frustrating.,appointments
+T063,Front desk staff were not rude at all and got my file ready fast. This morning.,
+T064,"Doctor was calm and clear, rooms were spotless, and pharmacy was quick, but washroom near OPD was wet, smelly, and clearly uncleaned.",cleanliness
+T065,Accounts clerk refused to explain the overpriced consumables invoice. This morning.,billing and insurance
+T066,Overflowing trash bins sat in the corridor all afternoon.,cleanliness
+T067,Clinic overbooked the 10 AM appointment slot causing total chaos. This morning.,appointments
+T068,MRI report delivery was delayed and held up my review visit. On Monday.,reports and lab
+T069,Nurses were not careless and monitored the drip gently. Very frustrating.,
+T070,Breakfast delivery came ninety minutes late and was inedible. Very frustrating.,food
+T071,Dispensing counter gave zero instructions on storing the insulin. This morning.,pharmacy
+T072,Lab technician poked my vein three times during blood collection. Yesterday.,reports and lab
+T073,Cashless insurance approval stalled our discharge for five hours.,billing and insurance
+T074,"Gate security was rude and argued when we asked for directions, however final bill included unexplained charges and duplicate fees.",billing and insurance|staff behaviour
+T075,Accounts clerk refused to explain the overpriced consumables invoice. On Monday.,billing and insurance
+T076,Lab technician poked my vein three times during blood collection. This morning.,reports and lab
+T077,"Doctor was calm and clear, rooms were spotless, and pharmacy was quick, but pressed the bedside nurse call bell three times with no response.",nursing care
+T078,Overflowing trash bins sat in the corridor all afternoon. This morning.,cleanliness
+T079,"Dispensing counter gave zero instructions on storing the insulin, however consultant gave a confusing treatment summary and hurried me out.",doctor communication|pharmacy
+T080,"No waiting delay today and billing settlement was transparent, but mRI report delivery was delayed and held up my review visit.",reports and lab
+T081,Hospital pharmacy did not stock half of my prescribed tablets. On Monday.,pharmacy
+T082,Duty nurses ignored the empty saline drip until we called them.,nursing care
+T083,Front desk clerk snapped impatiently at an elderly visitor. This morning.,staff behaviour
+T084,Cafeteria served stale snacks and cold tea at high prices.,food
+T085,"Specialist barely listened and brushed aside my medication questions, however found stained bedsheets and dusty floors inside the private ward.",cleanliness|doctor communication
+T086,No wheelchair was ready at the emergency gate for my father. On Monday.,facilities and parking
+T087,Turnaround delay at registration took more than 75 mins.,waiting time
+T088,"Completed my routine vaccination visit without any problem, but physician rushed my consultation and never explained the diagnosis.",doctor communication
+T089,Overflowing trash bins sat in the corridor all afternoon. On Monday.,cleanliness
+T090,Gate security was rude and argued when we asked for directions. Very frustrating.,staff behaviour
+T091,"Nurses were not careless and monitored the drip gently, but cashless insurance approval stalled our discharge for five hours.",billing and insurance
+T092,Helpdesk representative showed a dismissive attitude all morning.,staff behaviour
+T093,"Nurses were not careless and monitored the drip gently, but booked a cardiology slot on the app yet reception lost my record.",appointments
+T094,"No waiting delay today and billing settlement was transparent, but waited endlessly in the outpatient hall with zero queue updates.",waiting time
+T095,Broken air conditioning made the waiting hall unbearable.,facilities and parking
+T096,Waited endlessly in the outpatient hall with zero queue updates. Yesterday.,waiting time
+T097,Ward nurse inserted the IV cannula roughly and left it bleeding. This morning.,nursing care
+T098,Booking helpline rang nonstop and nobody answered to reschedule.,appointments
+T099,"Front desk staff were not rude at all and got my file ready fast, but sat outside the clinic for 110 minutes past my scheduled token.",waiting time
+T100,"Ward nurse inserted the IV cannula roughly and left it bleeding, however cafeteria served stale snacks and cold tea at high prices.",food|nursing care
+T101,Helpdesk representative showed a dismissive attitude all morning. This morning.,staff behaviour
+T102,No waiting delay today and billing settlement was transparent. Very frustrating.,
+T103,Duty nurses ignored the empty saline drip until we called them. On Monday.,nursing care
+T104,"Duty nurses ignored the empty saline drip until we called them, however breakfast delivery came ninety minutes late and was inedible.",food|nursing care
+T105,Single open pharmacy window created a massive medicine queue. Yesterday.,pharmacy
+T106,Front desk staff were not rude at all and got my file ready fast. Needs fixing.,
+T107,Physician rushed my consultation and never explained the diagnosis. This morning.,doctor communication
+T108,Night nursing team missed my scheduled midnight painkiller dose. On Monday.,nursing care
+T109,Cashless insurance approval stalled our discharge for five hours. On Monday.,billing and insurance
+T110,Overflowing trash bins sat in the corridor all afternoon. Very frustrating.,cleanliness
+T111,"Washroom near OPD was wet, smelly, and clearly uncleaned. This morning.",cleanliness
+T112,Turnaround delay at registration took more than 75 mins. Yesterday.,waiting time
+T113,"No waiting delay today and billing settlement was transparent, but doctor did not explain possible side effects of the new tablets.",doctor communication
+T114,My follow-up appointment was cancelled without any SMS alert. Yesterday.,appointments
+T115,TPA desk mishandled our policy paperwork and delayed settlement. This morning.,billing and insurance
+T116,Physician rushed my consultation and never explained the diagnosis.,doctor communication
+T117,Pathology lab misplaced my sample and demanded a repeat draw.,reports and lab
+T118,Night nursing team missed my scheduled midnight painkiller dose. Very frustrating.,nursing care
+T119,Cafeteria served stale snacks and cold tea at high prices. This morning.,food
+T120,"Doctor was calm and clear, rooms were spotless, and pharmacy was quick. This morning.",
+T121,Duty nurses ignored the empty saline drip until we called them. Yesterday.,nursing care
+T122,Basement parking was packed and both lifts were out of service. This morning.,facilities and parking
+T123,Queue did not budge for almost two hours during morning check-in. Very frustrating.,waiting time
+T124,"Completed my routine vaccination visit without any problem, but night nursing team missed my scheduled midnight painkiller dose.",nursing care
+T125,Nurses were not careless and monitored the drip gently. This morning.,
+T126,Doctor did not explain possible side effects of the new tablets. On Monday.,doctor communication
+T127,Breakfast delivery came ninety minutes late and was inedible. On Monday.,food
+T128,"Nurses were not careless and monitored the drip gently, but overflowing trash bins sat in the corridor all afternoon.",cleanliness
+T129,Clinic overbooked the 10 AM appointment slot causing total chaos.,appointments
+T130,"Lab technician poked my vein three times during blood collection, however helpdesk representative showed a dismissive attitude all morning.",reports and lab|staff behaviour
+T131,Doctor did not explain possible side effects of the new tablets.,doctor communication
+T132,Clinic overbooked the 10 AM appointment slot causing total chaos. Yesterday.,appointments
+T133,"Clinic overbooked the 10 AM appointment slot causing total chaos, however turnaround delay at registration took more than 75 mins.",appointments|waiting time
+T134,Registration receptionist rolled her eyes and spoke harshly to us. This morning.,staff behaviour
+T135,"Turnaround delay at registration took more than 75 mins, however duty nurses ignored the empty saline drip until we called them.",nursing care|waiting time
+T136,"Washroom near OPD was wet, smelly, and clearly uncleaned. Very frustrating.",cleanliness
+T137,Consultant gave a confusing treatment summary and hurried me out. Very frustrating.,doctor communication
+T138,Clinic overbooked the 10 AM appointment slot causing total chaos. On Monday.,appointments
+T139,Completed my routine vaccination visit without any problem. Needs fixing.,
+T140,Basement parking was packed and both lifts were out of service.,facilities and parking
+T141,Cashless insurance approval stalled our discharge for five hours. Very frustrating.,billing and insurance
+T142,Dispensing counter gave zero instructions on storing the insulin. Yesterday.,pharmacy
+T143,Pharmacist handed over the wrong dosage strip at pickup. On Monday.,pharmacy
+T144,Found stained bedsheets and dusty floors inside the private ward. This morning.,cleanliness
+T145,Dispensing counter gave zero instructions on storing the insulin. On Monday.,pharmacy
+T146,Nurses were not careless and monitored the drip gently. Yesterday.,
+T147,Helpdesk representative showed a dismissive attitude all morning. On Monday.,staff behaviour
+T148,Consultant gave a confusing treatment summary and hurried me out. Yesterday.,doctor communication
+T149,Completed my routine vaccination visit without any problem. Yesterday.,
+T150,Booking helpline rang nonstop and nobody answered to reschedule. On Monday.,appointments
+T151,"TPA desk mishandled our policy paperwork and delayed settlement, however cramped waiting lounge had broken seating and empty water cooler.",billing and insurance|facilities and parking
+T152,Cramped waiting lounge had broken seating and empty water cooler. Yesterday.,facilities and parking
+T153,Found stained bedsheets and dusty floors inside the private ward. On Monday.,cleanliness
+T154,Overflowing trash bins sat in the corridor all afternoon. Yesterday.,cleanliness
+T155,"No waiting delay today and billing settlement was transparent, but registration receptionist rolled her eyes and spoke harshly to us.",staff behaviour
+T156,Completed my routine vaccination visit without any problem. Very frustrating.,
+T157,Sat outside the clinic for 110 minutes past my scheduled token. Yesterday.,waiting time
+T158,No waiting delay today and billing settlement was transparent. This morning.,
+T159,"Pathology lab misplaced my sample and demanded a repeat draw, however gate security was rude and argued when we asked for directions.",reports and lab|staff behaviour
+T160,Dispensing counter gave zero instructions on storing the insulin.,pharmacy
+T161,Night nursing team missed my scheduled midnight painkiller dose.,nursing care
+T162,TPA desk mishandled our policy paperwork and delayed settlement. Very frustrating.,billing and insurance
+T163,Night nursing team missed my scheduled midnight painkiller dose. Yesterday.,nursing care
+T164,Lab technician poked my vein three times during blood collection. Very frustrating.,reports and lab
+T165,Pharmacist handed over the wrong dosage strip at pickup. Very frustrating.,pharmacy
+T166,"Gate security was rude and argued when we asked for directions, however final bill included unexplained charges and duplicate fees.",billing and insurance|staff behaviour
+T167,Night nursing team missed my scheduled midnight painkiller dose. This morning.,nursing care
+T168,Basement parking was packed and both lifts were out of service. On Monday.,facilities and parking
+T169,Pressed the bedside nurse call bell three times with no response. Yesterday.,nursing care
+T170,Duty nurses ignored the empty saline drip until we called them. This morning.,nursing care
+T171,Cramped waiting lounge had broken seating and empty water cooler. This morning.,facilities and parking
+T172,Pathology lab misplaced my sample and demanded a repeat draw. Very frustrating.,reports and lab
+T173,Hospital kitchen sent sugary dessert to a diabetic patient.,food
+T174,Specialist barely listened and brushed aside my medication questions. Very frustrating.,doctor communication
+T175,"Completed my routine vaccination visit without any problem, but cashless insurance approval stalled our discharge for five hours.",billing and insurance
+T176,My follow-up appointment was cancelled without any SMS alert. On Monday.,appointments
+T177,"Doctor was calm and clear, rooms were spotless, and pharmacy was quick, but accounts clerk refused to explain the overpriced consumables invoice.",billing and insurance
+T178,Found stained bedsheets and dusty floors inside the private ward.,cleanliness
+T179,Booked a cardiology slot on the app yet reception lost my record. On Monday.,appointments
+T180,Room floor stayed sticky and housekeeping never came to mop. On Monday.,cleanliness
+T181,Inpatient dinner tray arrived lukewarm and the soup tasted sour. Yesterday.,food
+T182,Basement parking was packed and both lifts were out of service. Yesterday.,facilities and parking
+T183,"Front desk staff were not rude at all and got my file ready fast, but fasting blood report was still missing on the portal two days late.",reports and lab
+T184,Accounts clerk refused to explain the overpriced consumables invoice.,billing and insurance
+T185,"Doctor was calm and clear, rooms were spotless, and pharmacy was quick. Yesterday.",
+T186,Physician rushed my consultation and never explained the diagnosis. On Monday.,doctor communication
+T187,Inpatient dinner tray arrived lukewarm and the soup tasted sour. This morning.,food
+T188,Inpatient dinner tray arrived lukewarm and the soup tasted sour. On Monday.,food
+T189,Room floor stayed sticky and housekeeping never came to mop. Very frustrating.,cleanliness
+T190,Waited endlessly in the outpatient hall with zero queue updates. Very frustrating.,waiting time
+T191,Cramped waiting lounge had broken seating and empty water cooler. Very frustrating.,facilities and parking
+T192,"Front desk staff were not rude at all and got my file ready fast, but basement parking was packed and both lifts were out of service.",facilities and parking
+T193,Helpdesk representative showed a dismissive attitude all morning. Yesterday.,staff behaviour
+T194,Basement parking was packed and both lifts were out of service. Very frustrating.,facilities and parking
+T195,Fasting blood report was still missing on the portal two days late. This morning.,reports and lab
+T196,"Cramped waiting lounge had broken seating and empty water cooler, however dispensing counter gave zero instructions on storing the insulin.",facilities and parking|pharmacy
+T197,Waited endlessly in the outpatient hall with zero queue updates. This morning.,waiting time
+T198,Pathology lab misplaced my sample and demanded a repeat draw. Yesterday.,reports and lab
+T199,"Doctor was calm and clear, rooms were spotless, and pharmacy was quick, but hospital kitchen sent sugary dessert to a diabetic patient.",food
+T200,Single open pharmacy window created a massive medicine queue. On Monday.,pharmacy
+T201,"Breakfast delivery came ninety minutes late and was inedible, however lab technician poked my vein three times during blood collection.",food|reports and lab
+T202,My follow-up appointment was cancelled without any SMS alert. This morning.,appointments
+T203,Queue did not budge for almost two hours during morning check-in. This morning.,waiting time
+T204,Front desk staff were not rude at all and got my file ready fast.,
+T205,Pressed the bedside nurse call bell three times with no response. Very frustrating.,nursing care
+T206,Single open pharmacy window created a massive medicine queue. This morning.,pharmacy
+T207,Fasting blood report was still missing on the portal two days late. Yesterday.,reports and lab
+T208,"Duty nurses ignored the empty saline drip until we called them, however breakfast delivery came ninety minutes late and was inedible.",food|nursing care
+T209,Broken air conditioning made the waiting hall unbearable. Yesterday.,facilities and parking
+T210,Pharmacist handed over the wrong dosage strip at pickup. Yesterday.,pharmacy
+T211,Room floor stayed sticky and housekeeping never came to mop. Yesterday.,cleanliness
+T212,Booked a cardiology slot on the app yet reception lost my record.,appointments
+T213,"Washroom near OPD was wet, smelly, and clearly uncleaned. Yesterday.",cleanliness
+T214,Cramped waiting lounge had broken seating and empty water cooler.,facilities and parking
+T215,"Completed my routine vaccination visit without any problem, but sat outside the clinic for 110 minutes past my scheduled token.",waiting time
+T216,Queue did not budge for almost two hours during morning check-in.,waiting time
+T217,Pathology lab misplaced my sample and demanded a repeat draw. This morning.,reports and lab
+T218,Gate security was rude and argued when we asked for directions.,staff behaviour
+T219,No waiting delay today and billing settlement was transparent. Yesterday.,
+T220,Fasting blood report was still missing on the portal two days late. Very frustrating.,reports and lab
+T221,Specialist barely listened and brushed aside my medication questions.,doctor communication
+T222,Hospital kitchen sent sugary dessert to a diabetic patient. This morning.,food
+T223,Cashless insurance approval stalled our discharge for five hours. This morning.,billing and insurance
+T224,Consultant gave a confusing treatment summary and hurried me out. On Monday.,doctor communication
+T225,TPA desk mishandled our policy paperwork and delayed settlement.,billing and insurance
+T226,Cafeteria served stale snacks and cold tea at high prices. Yesterday.,food
+T227,Completed my routine vaccination visit without any problem. This morning.,
+T228,"Doctor was calm and clear, rooms were spotless, and pharmacy was quick. Needs fixing.",
+T229,Front desk clerk snapped impatiently at an elderly visitor. On Monday.,staff behaviour
+T230,Ward nurse inserted the IV cannula roughly and left it bleeding. On Monday.,nursing care
+T231,No wheelchair was ready at the emergency gate for my father. Very frustrating.,facilities and parking
+T232,"Consultant gave a confusing treatment summary and hurried me out, however room floor stayed sticky and housekeeping never came to mop.",cleanliness|doctor communication
+T233,Pressed the bedside nurse call bell three times with no response.,nursing care
+T234,MRI report delivery was delayed and held up my review visit.,reports and lab
+T235,Hospital pharmacy did not stock half of my prescribed tablets. Very frustrating.,pharmacy
+T236,MRI report delivery was delayed and held up my review visit. Very frustrating.,reports and lab
+T237,Single open pharmacy window created a massive medicine queue.,pharmacy
+T238,Sat outside the clinic for 110 minutes past my scheduled token. On Monday.,waiting time
+T239,Cramped waiting lounge had broken seating and empty water cooler. On Monday.,facilities and parking
+T240,Booking helpline rang nonstop and nobody answered to reschedule. This morning.,appointments
+T241,Specialist barely listened and brushed aside my medication questions. This morning.,doctor communication
+T242,No waiting delay today and billing settlement was transparent.,
+T243,Pharmacist handed over the wrong dosage strip at pickup.,pharmacy
+T244,Completed my routine vaccination visit without any problem.,
+T245,Specialist barely listened and brushed aside my medication questions. On Monday.,doctor communication
+T246,Broken air conditioning made the waiting hall unbearable. On Monday.,facilities and parking
+T247,Queue did not budge for almost two hours during morning check-in. Yesterday.,waiting time
+T248,Doctor did not explain possible side effects of the new tablets. Yesterday.,doctor communication
+T249,Registration receptionist rolled her eyes and spoke harshly to us. On Monday.,staff behaviour
+T250,"Front desk staff were not rude at all and got my file ready fast, but booking helpline rang nonstop and nobody answered to reschedule.",appointments
+T251,Ward nurse inserted the IV cannula roughly and left it bleeding. Very frustrating.,nursing care
+T252,Specialist barely listened and brushed aside my medication questions. Yesterday.,doctor communication
+T253,Waited endlessly in the outpatient hall with zero queue updates. On Monday.,waiting time
+T254,Single open pharmacy window created a massive medicine queue. Very frustrating.,pharmacy
+T255,Final bill included unexplained charges and duplicate fees. Yesterday.,billing and insurance
+T256,Doctor did not explain possible side effects of the new tablets. Very frustrating.,doctor communication
+T257,Booked a cardiology slot on the app yet reception lost my record. Yesterday.,appointments
+T258,TPA desk mishandled our policy paperwork and delayed settlement. On Monday.,billing and insurance
+T259,"Final bill included unexplained charges and duplicate fees, however broken air conditioning made the waiting hall unbearable.",billing and insurance|facilities and parking
+T260,Inpatient dinner tray arrived lukewarm and the soup tasted sour.,food
+T261,Turnaround delay at registration took more than 75 mins. This morning.,waiting time
+T262,Turnaround delay at registration took more than 75 mins. On Monday.,waiting time
+T263,Booking helpline rang nonstop and nobody answered to reschedule. Very frustrating.,appointments
+T264,Nurses were not careless and monitored the drip gently.,
+T265,No wheelchair was ready at the emergency gate for my father. This morning.,facilities and parking
+T266,Physician rushed my consultation and never explained the diagnosis. Very frustrating.,doctor communication
+T267,Hospital pharmacy did not stock half of my prescribed tablets. Yesterday.,pharmacy
+T268,Booking helpline rang nonstop and nobody answered to reschedule. Yesterday.,appointments
+T269,Breakfast delivery came ninety minutes late and was inedible.,food
+T270,Pathology lab misplaced my sample and demanded a repeat draw. On Monday.,reports and lab
+T271,"Found stained bedsheets and dusty floors inside the private ward, however my follow-up appointment was cancelled without any SMS alert.",appointments|cleanliness
+T272,Waited endlessly in the outpatient hall with zero queue updates.,waiting time
+T273,Pressed the bedside nurse call bell three times with no response. This morning.,nursing care
+T274,Cafeteria served stale snacks and cold tea at high prices. Very frustrating.,food
+T275,Ward nurse inserted the IV cannula roughly and left it bleeding.,nursing care
+T276,"Room floor stayed sticky and housekeeping never came to mop, however clinic overbooked the 10 AM appointment slot causing total chaos.",appointments|cleanliness
+T277,Gate security was rude and argued when we asked for directions. On Monday.,staff behaviour
+T278,Physician rushed my consultation and never explained the diagnosis. Yesterday.,doctor communication
+T279,Booked a cardiology slot on the app yet reception lost my record. This morning.,appointments
+T280,"Doctor was calm and clear, rooms were spotless, and pharmacy was quick, but doctor did not explain possible side effects of the new tablets.",doctor communication
+T281,My follow-up appointment was cancelled without any SMS alert.,appointments
+T282,Front desk staff were not rude at all and got my file ready fast. Very frustrating.,
+T283,Breakfast delivery came ninety minutes late and was inedible. Yesterday.,food
+T284,"Helpdesk representative showed a dismissive attitude all morning, however tPA desk mishandled our policy paperwork and delayed settlement.",billing and insurance|staff behaviour
+T285,"Doctor was calm and clear, rooms were spotless, and pharmacy was quick. Very frustrating.",
+T286,Front desk staff were not rude at all and got my file ready fast. Yesterday.,
+T287,Found stained bedsheets and dusty floors inside the private ward. Yesterday.,cleanliness
+T288,Front desk staff were not rude at all and got my file ready fast. On Monday.,
+T289,TPA desk mishandled our policy paperwork and delayed settlement. Yesterday.,billing and insurance
+T290,Broken air conditioning made the waiting hall unbearable. This morning.,facilities and parking
+T291,Doctor did not explain possible side effects of the new tablets. This morning.,doctor communication
+T292,Turnaround delay at registration took more than 75 mins. Very frustrating.,waiting time
+T293,Hospital kitchen sent sugary dessert to a diabetic patient. On Monday.,food
+T294,Lab technician poked my vein three times during blood collection.,reports and lab
+T295,Booked a cardiology slot on the app yet reception lost my record. Very frustrating.,appointments
+T296,No wheelchair was ready at the emergency gate for my father. Yesterday.,facilities and parking
+T297,"Nurses were not careless and monitored the drip gently, but inpatient dinner tray arrived lukewarm and the soup tasted sour.",food
+T298,Cashless insurance approval stalled our discharge for five hours. Yesterday.,billing and insurance
+T299,"Broken air conditioning made the waiting hall unbearable, however pharmacist handed over the wrong dosage strip at pickup.",facilities and parking|pharmacy
+T300,Nurses were not careless and monitored the drip gently. Needs fixing.,

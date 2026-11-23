@@ -1,0 +1,551 @@
+id,text,spans_json
+R0269,Checked Iqama 1687285401 at front desk.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}]"
+R0194,Reception took mobile 056-979-5168 without sending SMS.,"[{""start"": 22, ""end"": 34, ""type"": ""PHONE""}]"
+RN0045,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+RN0067,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0075,Contact number +966515247357 was written on the slip. Ref UHID-856073.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}, {""start"": 58, ""end"": 69, ""type"": ""MRN_UHID""}]"
+R0289,Iqama number 1034549352 at front desk.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}]"
+R0008,Verified Emirates ID 784199967273177 before scan.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}]"
+R0388,Verified Emirates ID 784-1980-0501714-1 before scan.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}]"
+R0162,Attended by Ramesh Varma during Cardiology visit. Ref PID:100637.,"[{""start"": 12, ""end"": 24, ""type"": ""NAME""}, {""start"": 54, ""end"": 64, ""type"": ""MRN_UHID""}]"
+R0286,Send final invoice to yusuf.darwish58@example-eval.test after approval.,"[{""start"": 22, ""end"": 55, ""type"": ""EMAIL""}]"
+R0153,Please call +91 74172 64366 for my lab summary.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}]"
+R0197,Submitted ID 761863405613 at admission desk. Ref MRN 506942.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}, {""start"": 49, ""end"": 59, ""type"": ""MRN_UHID""}]"
+R0318,Verified Emirates ID 784198396903074 before scan.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}]"
+R0018,Verified Emirates ID 784199054751779 before scan.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}]"
+RN0081,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+RN0093,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0233,Please call +91-82251-52165 for my lab summary. Ref PID:260581.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0320,File MRN 584619 was misplaced during handover. Ref UHID-481327.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}, {""start"": 51, ""end"": 62, ""type"": ""MRN_UHID""}]"
+RN0090,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0253,Please call +91 99162 26249 for my lab summary. Ref MRN 078874.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0098,Verified Emirates ID 784199255683068 before scan. Ref PID:389650.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}, {""start"": 54, ""end"": 64, ""type"": ""MRN_UHID""}]"
+R0271,Dr. Farhan Alotaibi waited at OPD for 40 mins.,"[{""start"": 4, ""end"": 19, ""type"": ""NAME""}]"
+RN0031,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0115,Contact number +966511960278 was written on the slip. Ref PID:658730.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}, {""start"": 58, ""end"": 68, ""type"": ""MRN_UHID""}]"
+R0340,File UHID-383990 was misplaced during handover.,"[{""start"": 5, ""end"": 16, ""type"": ""MRN_UHID""}]"
+R0278,Verified Emirates ID 784-1989-6415249-7 before scan.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}]"
+R0176,Send final invoice to farhan.alotaibi78@example-eval.test after approval.,"[{""start"": 22, ""end"": 57, ""type"": ""EMAIL""}]"
+R0346,Send final invoice to yusuf.darwish86@example-eval.test after approval.,"[{""start"": 22, ""end"": 55, ""type"": ""EMAIL""}]"
+R0400,File MRN-125029 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+R0313,Please call 6254412117 for my lab summary.,"[{""start"": 12, ""end"": 22, ""type"": ""PHONE""}]"
+RN0015,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0154,Reception took mobile +971 59 092 0824 without sending SMS.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}]"
+R0282,My name is Yusuf Darwish during Cardiology visit.,"[{""start"": 11, ""end"": 24, ""type"": ""NAME""}]"
+RN0051,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0113,Please call +91 86440 33013 for my lab summary. Ref PID:987198.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+RN0082,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0172,Attended by Siddharth Bose during Cardiology visit. Ref PID:333879.,"[{""start"": 12, ""end"": 26, ""type"": ""NAME""}, {""start"": 56, ""end"": 66, ""type"": ""MRN_UHID""}]"
+R0146,Send final invoice to yusuf.darwish87@example-eval.test after approval.,"[{""start"": 22, ""end"": 55, ""type"": ""EMAIL""}]"
+R0229,Iqama number 2612539825 at front desk.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}]"
+R0362,My name is Yusuf Darwish during Cardiology visit.,"[{""start"": 11, ""end"": 24, ""type"": ""NAME""}]"
+R0107,Submitted ID 7161-9945-6997 at admission desk. Ref UHID-864089.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}, {""start"": 51, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0045,Contact number 059-321-5711 was written on the slip. Ref PID:157718.,"[{""start"": 15, ""end"": 27, ""type"": ""PHONE""}, {""start"": 57, ""end"": 67, ""type"": ""MRN_UHID""}]"
+R0151,Nurse Huda Alghamdi waited at OPD for 40 mins.,"[{""start"": 6, ""end"": 19, ""type"": ""NAME""}]"
+R0364,Reception took mobile 058-935-4914 without sending SMS.,"[{""start"": 22, ""end"": 34, ""type"": ""PHONE""}]"
+RN0144,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0217,Submitted ID 6957 4415 8665 at admission desk.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}]"
+R0303,Please call +91-83999-95965 for my lab summary.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}]"
+RN0024,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0135,Contact number +966 55 611 4108 was written on the slip. Ref PID:953494.,"[{""start"": 15, ""end"": 31, ""type"": ""PHONE""}, {""start"": 61, ""end"": 71, ""type"": ""MRN_UHID""}]"
+R0219,Iqama number 1271052865 at front desk.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}]"
+RN0096,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0173,Please call +91-98771-09964 for my lab summary. Ref PID:037205.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0001,Nurse Lakshmi Kurup waited at OPD for 40 mins.,"[{""start"": 6, ""end"": 19, ""type"": ""NAME""}]"
+R0035,Contact number +966586423004 was written on the slip.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}]"
+R0057,Submitted ID 272075473545 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+R0382,Attended by Gayathri Subramanian during Cardiology visit. Ref MRN-362493.,"[{""start"": 12, ""end"": 32, ""type"": ""NAME""}, {""start"": 62, ""end"": 72, ""type"": ""MRN_UHID""}]"
+RN0133,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+RN0088,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+RN0054,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0105,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0272,Attended by Amina Alzahrani during Cardiology visit.,"[{""start"": 12, ""end"": 27, ""type"": ""NAME""}]"
+R0268,Verified Emirates ID 784200453095521 before scan.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}]"
+RN0108,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0270,File MRN 721611 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+R0275,Contact number +966 54 911 9070 was written on the slip.,"[{""start"": 15, ""end"": 31, ""type"": ""PHONE""}]"
+R0168,Verified Emirates ID 784200463787760 before scan. Ref MRN-542468.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}, {""start"": 54, ""end"": 64, ""type"": ""MRN_UHID""}]"
+R0132,Patient name: Amina Alzahrani during Cardiology visit. Ref PID:358134.,"[{""start"": 14, ""end"": 29, ""type"": ""NAME""}, {""start"": 59, ""end"": 69, ""type"": ""MRN_UHID""}]"
+RN0137,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0331,Nurse Amina Alzahrani waited at OPD for 40 mins. Ref MRN-212779.,"[{""start"": 6, ""end"": 21, ""type"": ""NAME""}, {""start"": 53, ""end"": 63, ""type"": ""MRN_UHID""}]"
+R0393,Please call 8847026543 for my lab summary. Ref PID:155760.,"[{""start"": 12, ""end"": 22, ""type"": ""PHONE""}, {""start"": 47, ""end"": 57, ""type"": ""MRN_UHID""}]"
+R0314,Reception took mobile 055-545-8920 without sending SMS. Ref MRN-468790.,"[{""start"": 22, ""end"": 34, ""type"": ""PHONE""}, {""start"": 60, ""end"": 70, ""type"": ""MRN_UHID""}]"
+RN0007,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+RN0064,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0300,File UHID-226931 was misplaced during handover. Ref PID:117902.,"[{""start"": 5, ""end"": 16, ""type"": ""MRN_UHID""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0126,Send final invoice to manoj.tiwari42@example-eval.test after approval.,"[{""start"": 22, ""end"": 54, ""type"": ""EMAIL""}]"
+R0079,Checked Iqama 1660330428 at front desk. Ref PID:142038.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}, {""start"": 44, ""end"": 54, ""type"": ""MRN_UHID""}]"
+R0291,Ms. Haritha Mathew waited at OPD for 40 mins. Ref MRN-034075.,"[{""start"": 4, ""end"": 18, ""type"": ""NAME""}, {""start"": 50, ""end"": 60, ""type"": ""MRN_UHID""}]"
+R0277,Submitted ID 7350 1919 6528 at admission desk. Ref PID:684203.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}, {""start"": 51, ""end"": 61, ""type"": ""MRN_UHID""}]"
+RN0016,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0321,Nurse Manoj Tiwari waited at OPD for 40 mins. Ref MRN-296347.,"[{""start"": 6, ""end"": 18, ""type"": ""NAME""}, {""start"": 50, ""end"": 60, ""type"": ""MRN_UHID""}]"
+R0150,File PID:167682 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+R0334,Reception took mobile +971555486080 without sending SMS.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}]"
+R0312,Spoke to Huda Alghamdi during Cardiology visit. Ref PID:531453.,"[{""start"": 9, ""end"": 22, ""type"": ""NAME""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0134,Reception took mobile +971541047516 without sending SMS.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}]"
+R0207,Submitted ID 567088785316 at admission desk. Ref UHID-448717.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}, {""start"": 49, ""end"": 60, ""type"": ""MRN_UHID""}]"
+RN0009,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0348,Verified Emirates ID 784 1976 4653705 0 before scan. Ref MRN 201391.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}, {""start"": 57, ""end"": 67, ""type"": ""MRN_UHID""}]"
+R0083,Please call +91 67418 28898 for my lab summary.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}]"
+R0316,Send final invoice to huda.alghamdi83@example-eval.test after approval.,"[{""start"": 22, ""end"": 55, ""type"": ""EMAIL""}]"
+RN0146,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0132,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0178,Verified Emirates ID 784 1961 1692984 4 before scan. Ref MRN 820624.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}, {""start"": 57, ""end"": 67, ""type"": ""MRN_UHID""}]"
+RN0037,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+RN0075,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0039,Checked Iqama 1145842108 at front desk. Ref PID:906688.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}, {""start"": 44, ""end"": 54, ""type"": ""MRN_UHID""}]"
+R0163,Please call +91-91124-33516 for my lab summary.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}]"
+R0281,Nurse Amina Alzahrani waited at OPD for 40 mins.,"[{""start"": 6, ""end"": 21, ""type"": ""NAME""}]"
+R0262,Attended by Yusuf Darwish during Cardiology visit. Ref MRN-212066.,"[{""start"": 12, ""end"": 25, ""type"": ""NAME""}, {""start"": 55, ""end"": 65, ""type"": ""MRN_UHID""}]"
+R0250,File MRN-470876 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+RN0056,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0354,Reception took mobile +971510239351 without sending SMS.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}]"
+R0215,Contact number +966504309642 was written on the slip. Ref UHID-143359.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}, {""start"": 58, ""end"": 69, ""type"": ""MRN_UHID""}]"
+R0179,Residency ID 1177466432 at front desk.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}]"
+R0144,Reception took mobile +971 54 030 0426 without sending SMS.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}]"
+R0302,Spoke to Bilal Siddiqui during Cardiology visit. Ref MRN 214461.,"[{""start"": 9, ""end"": 23, ""type"": ""NAME""}, {""start"": 53, ""end"": 63, ""type"": ""MRN_UHID""}]"
+RN0020,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+RN0124,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0137,Submitted ID 4446 0261 9564 at admission desk.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}]"
+R0304,Reception took mobile +971520554895 without sending SMS. Ref UHID-238616.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}, {""start"": 61, ""end"": 72, ""type"": ""MRN_UHID""}]"
+R0166,Send final invoice to nikhil.hegde86@example-eval.test after approval.,"[{""start"": 22, ""end"": 54, ""type"": ""EMAIL""}]"
+R0080,File MRN 805780 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+R0363,Please call 8108828325 for my lab summary.,"[{""start"": 12, ""end"": 22, ""type"": ""PHONE""}]"
+RN0136,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0157,Submitted ID 6151-7801-3322 at admission desk.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}]"
+RN0126,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0003,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0324,Reception took mobile +971519272432 without sending SMS.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}]"
+R0315,Contact number 051-251-5789 was written on the slip.,"[{""start"": 15, ""end"": 27, ""type"": ""PHONE""}]"
+RN0131,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0339,Residency ID 2239035908 at front desk. Ref PID:790845.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}, {""start"": 43, ""end"": 53, ""type"": ""MRN_UHID""}]"
+R0036,Send final invoice to pranav.deshmukh50@example-eval.test after approval. Ref MRN-280845.,"[{""start"": 22, ""end"": 57, ""type"": ""EMAIL""}, {""start"": 78, ""end"": 88, ""type"": ""MRN_UHID""}]"
+R0322,Patient name: Siddharth Bose during Cardiology visit. Ref MRN-148612.,"[{""start"": 14, ""end"": 28, ""type"": ""NAME""}, {""start"": 58, ""end"": 68, ""type"": ""MRN_UHID""}]"
+R0397,Submitted ID 7534 3125 5900 at admission desk.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}]"
+RN0005,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0356,Send final invoice to pranav.deshmukh85@example-eval.test after approval.,"[{""start"": 22, ""end"": 57, ""type"": ""EMAIL""}]"
+R0378,Verified Emirates ID 784199039271001 before scan.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}]"
+R0056,Send final invoice to farhan.alotaibi94@example-eval.test after approval. Ref PID:597475.,"[{""start"": 22, ""end"": 57, ""type"": ""EMAIL""}, {""start"": 78, ""end"": 88, ""type"": ""MRN_UHID""}]"
+R0016,Send final invoice to pooja.reddy98@example-eval.test after approval.,"[{""start"": 22, ""end"": 53, ""type"": ""EMAIL""}]"
+RN0030,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0165,Contact number 052-152-0511 was written on the slip.,"[{""start"": 15, ""end"": 27, ""type"": ""PHONE""}]"
+R0336,Send final invoice to haritha.mathew43@example-eval.test after approval. Ref PID:425312.,"[{""start"": 22, ""end"": 56, ""type"": ""EMAIL""}, {""start"": 77, ""end"": 87, ""type"": ""MRN_UHID""}]"
+R0118,Verified Emirates ID 784 1970 4013761 5 before scan. Ref MRN-059148.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}, {""start"": 57, ""end"": 67, ""type"": ""MRN_UHID""}]"
+RN0116,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0120,File UHID-223841 was misplaced during handover. Ref MRN 533257.,"[{""start"": 5, ""end"": 16, ""type"": ""MRN_UHID""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+RN0107,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0237,Submitted ID 983768917762 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+R0046,Send final invoice to manoj.tiwari41@example-eval.test after approval.,"[{""start"": 22, ""end"": 54, ""type"": ""EMAIL""}]"
+RN0086,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0287,Submitted ID 999517946430 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+R0013,Please call +91 87267 14751 for my lab summary.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}]"
+RN0078,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0049,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0006,Send final invoice to huda.alghamdi86@example-eval.test after approval.,"[{""start"": 22, ""end"": 55, ""type"": ""EMAIL""}]"
+R0295,Contact number +966 57 650 5265 was written on the slip.,"[{""start"": 15, ""end"": 31, ""type"": ""PHONE""}]"
+R0082,Attended by Gayathri Subramanian during Cardiology visit. Ref UHID-143049.,"[{""start"": 12, ""end"": 32, ""type"": ""NAME""}, {""start"": 62, ""end"": 73, ""type"": ""MRN_UHID""}]"
+R0148,Verified Emirates ID 784 1967 5812999 1 before scan.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}]"
+R0211,Ms. Aishwarya Shenoy waited at OPD for 40 mins. Ref MRN 174514.,"[{""start"": 4, ""end"": 20, ""type"": ""NAME""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0214,Reception took mobile 051-473-2312 without sending SMS. Ref MRN 713274.,"[{""start"": 22, ""end"": 34, ""type"": ""PHONE""}, {""start"": 60, ""end"": 70, ""type"": ""MRN_UHID""}]"
+R0344,Reception took mobile +971 54 268 1735 without sending SMS. Ref MRN 175911.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}, {""start"": 64, ""end"": 74, ""type"": ""MRN_UHID""}]"
+R0335,Contact number 052-223-2456 was written on the slip.,"[{""start"": 15, ""end"": 27, ""type"": ""PHONE""}]"
+RN0112,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0072,Attended by Manoj Tiwari during Cardiology visit.,"[{""start"": 12, ""end"": 24, ""type"": ""NAME""}]"
+R0201,Nurse Farhan Alotaibi waited at OPD for 40 mins. Ref UHID-143954.,"[{""start"": 6, ""end"": 21, ""type"": ""NAME""}, {""start"": 53, ""end"": 64, ""type"": ""MRN_UHID""}]"
+R0192,Attended by Nikhil Hegde during Cardiology visit.,"[{""start"": 12, ""end"": 24, ""type"": ""NAME""}]"
+R0123,Please call +91-87613-41461 for my lab summary. Ref PID:201461.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+RN0128,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0379,Residency ID 2683504061 at front desk.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}]"
+R0260,File MRN 204533 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+R0209,Checked Iqama 1903575058 at front desk. Ref MRN 785457.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}, {""start"": 44, ""end"": 54, ""type"": ""MRN_UHID""}]"
+R0061,Nurse Farhan Alotaibi waited at OPD for 40 mins. Ref MRN 898329.,"[{""start"": 6, ""end"": 21, ""type"": ""NAME""}, {""start"": 53, ""end"": 63, ""type"": ""MRN_UHID""}]"
+R0054,Reception took mobile +971580125373 without sending SMS.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}]"
+R0053,Please call +91 64503 78495 for my lab summary.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}]"
+R0142,Attended by Siddharth Bose during Cardiology visit.,"[{""start"": 12, ""end"": 26, ""type"": ""NAME""}]"
+R0012,Patient name: Lakshmi Kurup during Cardiology visit.,"[{""start"": 14, ""end"": 27, ""type"": ""NAME""}]"
+R0136,Send final invoice to ramesh.varma96@example-eval.test after approval. Ref UHID-947478.,"[{""start"": 22, ""end"": 54, ""type"": ""EMAIL""}, {""start"": 75, ""end"": 86, ""type"": ""MRN_UHID""}]"
+R0003,Please call +91 99879 73091 for my lab summary. Ref MRN-707536.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+RN0004,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0332,Patient name: Nikhil Hegde during Cardiology visit. Ref MRN-117744.,"[{""start"": 14, ""end"": 26, ""type"": ""NAME""}, {""start"": 56, ""end"": 66, ""type"": ""MRN_UHID""}]"
+R0048,Verified Emirates ID 784 2002 7652373 5 before scan.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}]"
+R0383,Please call +91 99603 08576 for my lab summary. Ref MRN 557897.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0090,File MRN 942607 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+RN0138,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0236,Send final invoice to bilal.siddiqui59@example-eval.test after approval. Ref MRN 967644.,"[{""start"": 22, ""end"": 56, ""type"": ""EMAIL""}, {""start"": 77, ""end"": 87, ""type"": ""MRN_UHID""}]"
+R0002,Attended by Manoj Tiwari during Cardiology visit.,"[{""start"": 12, ""end"": 24, ""type"": ""NAME""}]"
+R0297,Submitted ID 437685834270 at admission desk. Ref PID:603496.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}, {""start"": 49, ""end"": 59, ""type"": ""MRN_UHID""}]"
+R0062,Spoke to Manoj Tiwari during Cardiology visit.,"[{""start"": 9, ""end"": 21, ""type"": ""NAME""}]"
+R0352,Attended by Siddharth Bose during Cardiology visit. Ref PID:207794.,"[{""start"": 12, ""end"": 26, ""type"": ""NAME""}, {""start"": 56, ""end"": 66, ""type"": ""MRN_UHID""}]"
+R0230,File UHID-707308 was misplaced during handover. Ref MRN-862773.,"[{""start"": 5, ""end"": 16, ""type"": ""MRN_UHID""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0193,Please call +91-64995-31423 for my lab summary.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}]"
+R0246,Send final invoice to pranav.deshmukh13@example-eval.test after approval.,"[{""start"": 22, ""end"": 57, ""type"": ""EMAIL""}]"
+RN0100,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0032,My name is Pranav Deshmukh during Cardiology visit. Ref MRN-465908.,"[{""start"": 11, ""end"": 26, ""type"": ""NAME""}, {""start"": 56, ""end"": 66, ""type"": ""MRN_UHID""}]"
+R0020,File MRN-283822 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+R0175,Contact number +966551648078 was written on the slip. Ref UHID-962209.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}, {""start"": 58, ""end"": 69, ""type"": ""MRN_UHID""}]"
+R0028,Verified Emirates ID 784 1980 2441064 6 before scan.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}]"
+R0117,Submitted ID 920412634785 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+R0069,Iqama number 1445607874 at front desk.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}]"
+R0293,Please call 9345462685 for my lab summary.,"[{""start"": 12, ""end"": 22, ""type"": ""PHONE""}]"
+RN0062,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0390,File MRN 941683 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+R0333,Please call 8122925790 for my lab summary. Ref UHID-621841.,"[{""start"": 12, ""end"": 22, ""type"": ""PHONE""}, {""start"": 47, ""end"": 58, ""type"": ""MRN_UHID""}]"
+R0317,Submitted ID 602671868417 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+R0044,Reception took mobile +971 50 180 5154 without sending SMS.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}]"
+RN0010,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0095,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0238,Verified Emirates ID 784 1968 3659660 2 before scan. Ref UHID-754741.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}, {""start"": 57, ""end"": 68, ""type"": ""MRN_UHID""}]"
+RN0143,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0131,Ms. Amina Alzahrani waited at OPD for 40 mins.,"[{""start"": 4, ""end"": 19, ""type"": ""NAME""}]"
+R0143,Please call +91 93511 02038 for my lab summary.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}]"
+RN0036,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+RN0013,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0368,Verified Emirates ID 784198537711729 before scan.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}]"
+R0276,Send final invoice to gayathri.subramanian79@example-eval.test after approval. Ref UHID-040491.,"[{""start"": 22, ""end"": 62, ""type"": ""EMAIL""}, {""start"": 83, ""end"": 94, ""type"": ""MRN_UHID""}]"
+R0114,Reception took mobile +971590421631 without sending SMS.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}]"
+R0309,Checked Iqama 1052490075 at front desk.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}]"
+R0290,File PID:077739 was misplaced during handover. Ref MRN-514381.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}, {""start"": 51, ""end"": 61, ""type"": ""MRN_UHID""}]"
+RN0073,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0359,Residency ID 2363549264 at front desk. Ref MRN 215477.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}, {""start"": 43, ""end"": 53, ""type"": ""MRN_UHID""}]"
+R0034,Reception took mobile +971563632280 without sending SMS.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}]"
+R0367,Submitted ID 624915881810 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+R0155,Contact number +966542628370 was written on the slip.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}]"
+R0241,Nurse Haritha Mathew waited at OPD for 40 mins. Ref PID:915321.,"[{""start"": 6, ""end"": 20, ""type"": ""NAME""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0392,Patient name: Bilal Siddiqui during Cardiology visit.,"[{""start"": 14, ""end"": 28, ""type"": ""NAME""}]"
+RN0041,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+RN0059,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+RN0091,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0195,Contact number +966524744805 was written on the slip. Ref MRN-655856.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}, {""start"": 58, ""end"": 68, ""type"": ""MRN_UHID""}]"
+R0085,Contact number 052-838-5642 was written on the slip. Ref PID:129837.,"[{""start"": 15, ""end"": 27, ""type"": ""PHONE""}, {""start"": 57, ""end"": 67, ""type"": ""MRN_UHID""}]"
+R0374,Reception took mobile +971 58 942 9873 without sending SMS.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}]"
+RN0002,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0156,Send final invoice to farhan.alotaibi99@example-eval.test after approval. Ref MRN 018898.,"[{""start"": 22, ""end"": 57, ""type"": ""EMAIL""}, {""start"": 78, ""end"": 88, ""type"": ""MRN_UHID""}]"
+RN0006,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0043,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0259,Checked Iqama 1654771237 at front desk.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}]"
+R0353,Please call 9557285476 for my lab summary. Ref MRN 763448.,"[{""start"": 12, ""end"": 22, ""type"": ""PHONE""}, {""start"": 47, ""end"": 57, ""type"": ""MRN_UHID""}]"
+R0369,Residency ID 1564933545 at front desk. Ref MRN 207337.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}, {""start"": 43, ""end"": 53, ""type"": ""MRN_UHID""}]"
+R0038,Verified Emirates ID 784 1972 5577879 4 before scan. Ref MRN 270586.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}, {""start"": 57, ""end"": 67, ""type"": ""MRN_UHID""}]"
+R0026,Send final invoice to pranav.deshmukh95@example-eval.test after approval.,"[{""start"": 22, ""end"": 57, ""type"": ""EMAIL""}]"
+R0171,Nurse Farhan Alotaibi waited at OPD for 40 mins. Ref PID:965709.,"[{""start"": 6, ""end"": 21, ""type"": ""NAME""}, {""start"": 53, ""end"": 63, ""type"": ""MRN_UHID""}]"
+R0091,Patient Lakshmi Kurup waited at OPD for 40 mins.,"[{""start"": 8, ""end"": 21, ""type"": ""NAME""}]"
+R0310,File UHID-930924 was misplaced during handover. Ref MRN-405744.,"[{""start"": 5, ""end"": 16, ""type"": ""MRN_UHID""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0202,Patient name: Amina Alzahrani during Cardiology visit.,"[{""start"": 14, ""end"": 29, ""type"": ""NAME""}]"
+R0029,Checked Iqama 1041189557 at front desk.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}]"
+R0350,File UHID-368764 was misplaced during handover.,"[{""start"": 5, ""end"": 16, ""type"": ""MRN_UHID""}]"
+R0186,Send final invoice to gayathri.subramanian99@example-eval.test after approval. Ref PID:526064.,"[{""start"": 22, ""end"": 62, ""type"": ""EMAIL""}, {""start"": 83, ""end"": 93, ""type"": ""MRN_UHID""}]"
+R0395,Contact number +966593226951 was written on the slip.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}]"
+RN0111,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0343,Please call 8604889617 for my lab summary. Ref PID:194606.,"[{""start"": 12, ""end"": 22, ""type"": ""PHONE""}, {""start"": 47, ""end"": 57, ""type"": ""MRN_UHID""}]"
+R0097,Submitted ID 298584638844 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+R0213,Please call 8937873667 for my lab summary.,"[{""start"": 12, ""end"": 22, ""type"": ""PHONE""}]"
+R0125,Contact number +966 54 786 5893 was written on the slip. Ref MRN 760553.,"[{""start"": 15, ""end"": 31, ""type"": ""PHONE""}, {""start"": 61, ""end"": 71, ""type"": ""MRN_UHID""}]"
+RN0046,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0084,Reception took mobile +971 58 538 6713 without sending SMS. Ref MRN 817922.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}, {""start"": 64, ""end"": 74, ""type"": ""MRN_UHID""}]"
+RN0118,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0329,Iqama number 2093423040 at front desk.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}]"
+R0360,File MRN-274622 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+R0256,Send final invoice to siddharth.bose79@example-eval.test after approval. Ref PID:681621.,"[{""start"": 22, ""end"": 56, ""type"": ""EMAIL""}, {""start"": 77, ""end"": 87, ""type"": ""MRN_UHID""}]"
+R0285,Contact number 053-606-6132 was written on the slip.,"[{""start"": 15, ""end"": 27, ""type"": ""PHONE""}]"
+R0103,Please call +91-61387-59211 for my lab summary. Ref MRN 718621.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0319,Checked Iqama 2951005465 at front desk.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}]"
+RN0115,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+RN0011,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0109,Residency ID 2193039955 at front desk.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}]"
+RN0044,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+RN0039,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0189,Iqama number 2101019544 at front desk. Ref MRN-515753.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}, {""start"": 43, ""end"": 53, ""type"": ""MRN_UHID""}]"
+RN0026,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0191,Ms. Ramesh Varma waited at OPD for 40 mins.,"[{""start"": 4, ""end"": 16, ""type"": ""NAME""}]"
+R0239,Residency ID 2733374366 at front desk.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}]"
+RN0032,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0399,Residency ID 1256721878 at front desk.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}]"
+RN0023,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+RN0141,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+RN0150,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0019,Checked Iqama 1695793186 at front desk. Ref UHID-080737.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}, {""start"": 44, ""end"": 55, ""type"": ""MRN_UHID""}]"
+R0071,Ms. Haritha Mathew waited at OPD for 40 mins.,"[{""start"": 4, ""end"": 18, ""type"": ""NAME""}]"
+R0141,Mr. Lakshmi Kurup waited at OPD for 40 mins.,"[{""start"": 4, ""end"": 17, ""type"": ""NAME""}]"
+RN0028,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0119,Checked Iqama 2414881813 at front desk.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}]"
+R0342,My name is Pranav Deshmukh during Cardiology visit. Ref UHID-207653.,"[{""start"": 11, ""end"": 26, ""type"": ""NAME""}, {""start"": 56, ""end"": 67, ""type"": ""MRN_UHID""}]"
+R0030,File MRN-659397 was misplaced during handover. Ref MRN-584645.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}, {""start"": 51, ""end"": 61, ""type"": ""MRN_UHID""}]"
+R0323,Please call +91-65743-89032 for my lab summary. Ref UHID-419032.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}, {""start"": 52, ""end"": 63, ""type"": ""MRN_UHID""}]"
+R0280,File MRN-537910 was misplaced during handover. Ref UHID-717224.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}, {""start"": 51, ""end"": 62, ""type"": ""MRN_UHID""}]"
+RN0027,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0055,Contact number +966 54 196 8982 was written on the slip. Ref MRN 028837.,"[{""start"": 15, ""end"": 31, ""type"": ""PHONE""}, {""start"": 61, ""end"": 71, ""type"": ""MRN_UHID""}]"
+R0124,Reception took mobile +971533800530 without sending SMS.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}]"
+R0361,Patient Ramesh Varma waited at OPD for 40 mins.,"[{""start"": 8, ""end"": 20, ""type"": ""NAME""}]"
+R0337,Submitted ID 6129-4321-4458 at admission desk. Ref UHID-823283.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}, {""start"": 51, ""end"": 62, ""type"": ""MRN_UHID""}]"
+RN0001,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0205,Contact number +966587849996 was written on the slip. Ref MRN 855756.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}, {""start"": 58, ""end"": 68, ""type"": ""MRN_UHID""}]"
+R0076,Send final invoice to pooja.reddy33@example-eval.test after approval. Ref MRN-979678.,"[{""start"": 22, ""end"": 53, ""type"": ""EMAIL""}, {""start"": 74, ""end"": 84, ""type"": ""MRN_UHID""}]"
+RN0035,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0050,File MRN-449766 was misplaced during handover. Ref PID:651788.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}, {""start"": 51, ""end"": 61, ""type"": ""MRN_UHID""}]"
+R0064,Reception took mobile +971 54 385 8176 without sending SMS.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}]"
+R0325,Contact number 059-686-7036 was written on the slip. Ref MRN 057554.,"[{""start"": 15, ""end"": 27, ""type"": ""PHONE""}, {""start"": 57, ""end"": 67, ""type"": ""MRN_UHID""}]"
+R0152,My name is Aishwarya Shenoy during Cardiology visit.,"[{""start"": 11, ""end"": 27, ""type"": ""NAME""}]"
+R0311,Ms. Pranav Deshmukh waited at OPD for 40 mins. Ref MRN 196467.,"[{""start"": 4, ""end"": 19, ""type"": ""NAME""}, {""start"": 51, ""end"": 61, ""type"": ""MRN_UHID""}]"
+R0258,Verified Emirates ID 784 1988 4887810 1 before scan. Ref MRN-023209.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}, {""start"": 57, ""end"": 67, ""type"": ""MRN_UHID""}]"
+R0263,Please call +91 91205 59328 for my lab summary. Ref MRN-701465.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0298,Verified Emirates ID 784196223729613 before scan. Ref PID:710424.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}, {""start"": 54, ""end"": 64, ""type"": ""MRN_UHID""}]"
+R0274,Reception took mobile +971 53 409 8394 without sending SMS.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}]"
+RN0129,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+RN0060,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0391,Ms. Ramesh Varma waited at OPD for 40 mins. Ref MRN 488285.,"[{""start"": 4, ""end"": 16, ""type"": ""NAME""}, {""start"": 48, ""end"": 58, ""type"": ""MRN_UHID""}]"
+RN0121,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+RN0127,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0224,Reception took mobile +971 53 059 0619 without sending SMS. Ref MRN 553548.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}, {""start"": 64, ""end"": 74, ""type"": ""MRN_UHID""}]"
+R0004,Reception took mobile +971555681518 without sending SMS. Ref MRN 294055.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}, {""start"": 61, ""end"": 71, ""type"": ""MRN_UHID""}]"
+R0022,Patient name: Pranav Deshmukh during Cardiology visit.,"[{""start"": 14, ""end"": 29, ""type"": ""NAME""}]"
+R0190,File UHID-102549 was misplaced during handover.,"[{""start"": 5, ""end"": 16, ""type"": ""MRN_UHID""}]"
+RN0055,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+RN0119,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+RN0047,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0355,Contact number +966 56 354 4644 was written on the slip. Ref UHID-943030.,"[{""start"": 15, ""end"": 31, ""type"": ""PHONE""}, {""start"": 61, ""end"": 72, ""type"": ""MRN_UHID""}]"
+R0279,Residency ID 1365620011 at front desk. Ref MRN 530700.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}, {""start"": 43, ""end"": 53, ""type"": ""MRN_UHID""}]"
+RN0104,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+RN0066,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0022,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0050,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0257,Submitted ID 6810-3524-7872 at admission desk. Ref MRN-502977.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}, {""start"": 51, ""end"": 61, ""type"": ""MRN_UHID""}]"
+RN0135,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0182,Spoke to Huda Alghamdi during Cardiology visit. Ref MRN-332126.,"[{""start"": 9, ""end"": 22, ""type"": ""NAME""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0181,Patient Gayathri Subramanian waited at OPD for 40 mins.,"[{""start"": 8, ""end"": 28, ""type"": ""NAME""}]"
+R0381,Ms. Aishwarya Shenoy waited at OPD for 40 mins. Ref PID:981341.,"[{""start"": 4, ""end"": 20, ""type"": ""NAME""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0158,Verified Emirates ID 784198363782760 before scan.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}]"
+RN0109,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0357,Submitted ID 9357-2071-0138 at admission desk.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}]"
+R0047,Submitted ID 711174432564 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+RN0017,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+RN0042,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0005,Contact number +966561698716 was written on the slip.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}]"
+R0051,Mr. Aishwarya Shenoy waited at OPD for 40 mins. Ref PID:062048.,"[{""start"": 4, ""end"": 20, ""type"": ""NAME""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0140,File MRN-488778 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+R0218,Verified Emirates ID 784-1968-5204265-1 before scan. Ref MRN 269583.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}, {""start"": 57, ""end"": 67, ""type"": ""MRN_UHID""}]"
+RN0083,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+RN0125,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0347,Submitted ID 8473 3086 9430 at admission desk.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}]"
+R0299,Checked Iqama 2785522853 at front desk.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}]"
+R0023,Please call 9472587718 for my lab summary.,"[{""start"": 12, ""end"": 22, ""type"": ""PHONE""}]"
+R0073,Please call 6190187916 for my lab summary.,"[{""start"": 12, ""end"": 22, ""type"": ""PHONE""}]"
+R0373,Please call +91-65348-28646 for my lab summary.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}]"
+R0245,Contact number +966573164891 was written on the slip.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}]"
+RN0130,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0133,Please call +91 67233 49677 for my lab summary.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}]"
+R0011,Mr. Haritha Mathew waited at OPD for 40 mins.,"[{""start"": 4, ""end"": 18, ""type"": ""NAME""}]"
+R0111,Nurse Siddharth Bose waited at OPD for 40 mins. Ref PID:654705.,"[{""start"": 6, ""end"": 20, ""type"": ""NAME""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+RN0098,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0149,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0267,Submitted ID 6421 4313 5778 at admission desk. Ref UHID-579996.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}, {""start"": 51, ""end"": 62, ""type"": ""MRN_UHID""}]"
+RN0068,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0122,Attended by Gayathri Subramanian during Cardiology visit.,"[{""start"": 12, ""end"": 32, ""type"": ""NAME""}]"
+R0243,Please call +91-95127-25556 for my lab summary. Ref PID:726001.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0223,Please call +91 95490 89823 for my lab summary.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}]"
+R0234,Reception took mobile +971585893832 without sending SMS.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}]"
+R0101,Dr. Lakshmi Kurup waited at OPD for 40 mins.,"[{""start"": 4, ""end"": 17, ""type"": ""NAME""}]"
+RN0114,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0326,Send final invoice to ramesh.varma78@example-eval.test after approval. Ref PID:073929.,"[{""start"": 22, ""end"": 54, ""type"": ""EMAIL""}, {""start"": 75, ""end"": 85, ""type"": ""MRN_UHID""}]"
+RN0103,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0078,Verified Emirates ID 784199705982819 before scan. Ref UHID-918276.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}, {""start"": 54, ""end"": 65, ""type"": ""MRN_UHID""}]"
+RN0052,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+RN0140,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0308,Verified Emirates ID 784-2003-8812064-1 before scan.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}]"
+R0296,Send final invoice to ramesh.varma38@example-eval.test after approval. Ref MRN 996538.,"[{""start"": 22, ""end"": 54, ""type"": ""EMAIL""}, {""start"": 75, ""end"": 85, ""type"": ""MRN_UHID""}]"
+R0110,File MRN-566979 was misplaced during handover. Ref MRN-567959.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}, {""start"": 51, ""end"": 61, ""type"": ""MRN_UHID""}]"
+RN0040,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0380,File UHID-524068 was misplaced during handover. Ref MRN-374845.,"[{""start"": 5, ""end"": 16, ""type"": ""MRN_UHID""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0254,Reception took mobile +971 54 928 4522 without sending SMS.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}]"
+R0226,Send final invoice to pooja.reddy50@example-eval.test after approval.,"[{""start"": 22, ""end"": 53, ""type"": ""EMAIL""}]"
+R0033,Please call 7801291102 for my lab summary. Ref PID:069256.,"[{""start"": 12, ""end"": 22, ""type"": ""PHONE""}, {""start"": 47, ""end"": 57, ""type"": ""MRN_UHID""}]"
+RN0033,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0088,Verified Emirates ID 784199400527913 before scan.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}]"
+R0249,Residency ID 2025219607 at front desk. Ref UHID-865351.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}, {""start"": 43, ""end"": 54, ""type"": ""MRN_UHID""}]"
+R0160,File PID:343274 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+R0021,Mr. Nikhil Hegde waited at OPD for 40 mins. Ref MRN 164252.,"[{""start"": 4, ""end"": 16, ""type"": ""NAME""}, {""start"": 48, ""end"": 58, ""type"": ""MRN_UHID""}]"
+RN0085,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0370,File PID:926029 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+R0386,Send final invoice to haritha.mathew55@example-eval.test after approval. Ref PID:373740.,"[{""start"": 22, ""end"": 56, ""type"": ""EMAIL""}, {""start"": 77, ""end"": 87, ""type"": ""MRN_UHID""}]"
+R0247,Submitted ID 9974 9622 4590 at admission desk. Ref MRN 184807.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}, {""start"": 51, ""end"": 61, ""type"": ""MRN_UHID""}]"
+RN0106,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0284,Reception took mobile 052-644-0818 without sending SMS.,"[{""start"": 22, ""end"": 34, ""type"": ""PHONE""}]"
+R0341,Dr. Pranav Deshmukh waited at OPD for 40 mins.,"[{""start"": 4, ""end"": 19, ""type"": ""NAME""}]"
+R0017,Submitted ID 429486628366 at admission desk. Ref MRN-610550.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}, {""start"": 49, ""end"": 59, ""type"": ""MRN_UHID""}]"
+RN0065,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0105,Contact number 056-261-4883 was written on the slip. Ref UHID-029944.,"[{""start"": 15, ""end"": 27, ""type"": ""PHONE""}, {""start"": 57, ""end"": 68, ""type"": ""MRN_UHID""}]"
+R0169,Residency ID 2242764129 at front desk.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}]"
+R0130,File MRN 316653 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+RN0145,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+RN0074,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0142,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0212,My name is Aishwarya Shenoy during Cardiology visit.,"[{""start"": 11, ""end"": 27, ""type"": ""NAME""}]"
+R0104,Reception took mobile 057-617-7077 without sending SMS.,"[{""start"": 22, ""end"": 34, ""type"": ""PHONE""}]"
+R0149,Checked Iqama 2755485066 at front desk.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}]"
+RN0061,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0200,File MRN 918044 was misplaced during handover. Ref MRN 134069.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}, {""start"": 51, ""end"": 61, ""type"": ""MRN_UHID""}]"
+R0063,Please call +91-60442-24852 for my lab summary. Ref MRN-226978.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0089,Checked Iqama 2112098426 at front desk.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}]"
+R0227,Submitted ID 592981703615 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+R0167,Submitted ID 5419 0823 8616 at admission desk. Ref UHID-122238.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}, {""start"": 51, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0240,File MRN-446181 was misplaced during handover. Ref UHID-317820.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}, {""start"": 51, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0366,Send final invoice to yusuf.darwish49@example-eval.test after approval.,"[{""start"": 22, ""end"": 55, ""type"": ""EMAIL""}]"
+RN0087,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+RN0058,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0071,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0049,Residency ID 2327926451 at front desk. Ref MRN 428435.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}, {""start"": 43, ""end"": 53, ""type"": ""MRN_UHID""}]"
+R0177,Submitted ID 597110098973 at admission desk. Ref MRN-028220.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}, {""start"": 49, ""end"": 59, ""type"": ""MRN_UHID""}]"
+R0060,File MRN 193073 was misplaced during handover. Ref UHID-834728.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}, {""start"": 51, ""end"": 62, ""type"": ""MRN_UHID""}]"
+R0306,Send final invoice to pooja.reddy41@example-eval.test after approval. Ref MRN 367800.,"[{""start"": 22, ""end"": 53, ""type"": ""EMAIL""}, {""start"": 74, ""end"": 84, ""type"": ""MRN_UHID""}]"
+R0330,File MRN-873592 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+R0216,Send final invoice to lakshmi.kurup75@example-eval.test after approval.,"[{""start"": 22, ""end"": 55, ""type"": ""EMAIL""}]"
+R0185,Contact number 055-292-0742 was written on the slip. Ref PID:798371.,"[{""start"": 15, ""end"": 27, ""type"": ""PHONE""}, {""start"": 57, ""end"": 67, ""type"": ""MRN_UHID""}]"
+R0371,Patient Huda Alghamdi waited at OPD for 40 mins.,"[{""start"": 8, ""end"": 21, ""type"": ""NAME""}]"
+R0067,Submitted ID 5373 5286 6756 at admission desk.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}]"
+R0345,Contact number +966 55 060 2133 was written on the slip. Ref PID:549459.,"[{""start"": 15, ""end"": 31, ""type"": ""PHONE""}, {""start"": 61, ""end"": 71, ""type"": ""MRN_UHID""}]"
+R0387,Submitted ID 4409 4407 4116 at admission desk.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}]"
+R0221,Mr. Haritha Mathew waited at OPD for 40 mins.,"[{""start"": 4, ""end"": 18, ""type"": ""NAME""}]"
+RN0019,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0294,Reception took mobile +971572130516 without sending SMS.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}]"
+R0307,Submitted ID 373596485268 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+R0159,Checked Iqama 2121385607 at front desk. Ref UHID-238696.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}, {""start"": 44, ""end"": 55, ""type"": ""MRN_UHID""}]"
+RN0102,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0117,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+RN0089,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0273,Please call +91-98445-58419 for my lab summary.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}]"
+R0058,Verified Emirates ID 784 1979 3906188 4 before scan.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}]"
+RN0070,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0012,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0375,Contact number +966 56 202 2920 was written on the slip.,"[{""start"": 15, ""end"": 31, ""type"": ""PHONE""}]"
+R0206,Send final invoice to siddharth.bose11@example-eval.test after approval.,"[{""start"": 22, ""end"": 56, ""type"": ""EMAIL""}]"
+R0235,Contact number 057-709-1317 was written on the slip.,"[{""start"": 15, ""end"": 27, ""type"": ""PHONE""}]"
+R0180,File MRN 777921 was misplaced during handover. Ref PID:344796.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}, {""start"": 51, ""end"": 61, ""type"": ""MRN_UHID""}]"
+R0015,Contact number +966 53 190 8452 was written on the slip. Ref MRN 283792.,"[{""start"": 15, ""end"": 31, ""type"": ""PHONE""}, {""start"": 61, ""end"": 71, ""type"": ""MRN_UHID""}]"
+RN0063,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0225,Contact number +966534474451 was written on the slip.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}]"
+R0248,Verified Emirates ID 784197069550439 before scan.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}]"
+R0196,Send final invoice to amina.alzahrani27@example-eval.test after approval.,"[{""start"": 22, ""end"": 57, ""type"": ""EMAIL""}]"
+R0327,Submitted ID 5911-3170-9051 at admission desk.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}]"
+R0031,Mr. Ramesh Varma waited at OPD for 40 mins.,"[{""start"": 4, ""end"": 16, ""type"": ""NAME""}]"
+R0255,Contact number +966 50 435 1976 was written on the slip. Ref PID:381721.,"[{""start"": 15, ""end"": 31, ""type"": ""PHONE""}, {""start"": 61, ""end"": 71, ""type"": ""MRN_UHID""}]"
+RN0113,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0138,Verified Emirates ID 784-1963-0052007-0 before scan.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}]"
+R0187,Submitted ID 3145-9460-9659 at admission desk. Ref MRN-074851.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}, {""start"": 51, ""end"": 61, ""type"": ""MRN_UHID""}]"
+R0261,Mr. Lakshmi Kurup waited at OPD for 40 mins. Ref MRN-443376.,"[{""start"": 4, ""end"": 17, ""type"": ""NAME""}, {""start"": 49, ""end"": 59, ""type"": ""MRN_UHID""}]"
+R0265,Contact number +966558832716 was written on the slip.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}]"
+R0222,Spoke to Amina Alzahrani during Cardiology visit. Ref PID:888302.,"[{""start"": 9, ""end"": 24, ""type"": ""NAME""}, {""start"": 54, ""end"": 64, ""type"": ""MRN_UHID""}]"
+R0188,Verified Emirates ID 784 1994 1013315 6 before scan. Ref MRN-837819.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}, {""start"": 57, ""end"": 67, ""type"": ""MRN_UHID""}]"
+R0208,Verified Emirates ID 784 1993 3640320 1 before scan.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}]"
+R0251,Patient Amina Alzahrani waited at OPD for 40 mins.,"[{""start"": 8, ""end"": 23, ""type"": ""NAME""}]"
+R0183,Please call +91 98692 27138 for my lab summary.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}]"
+RN0099,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0007,Submitted ID 897880932083 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+R0139,Checked Iqama 2039273305 at front desk.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}]"
+R0100,File PID:816354 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+R0040,File UHID-811265 was misplaced during handover.,"[{""start"": 5, ""end"": 16, ""type"": ""MRN_UHID""}]"
+R0010,File MRN 787680 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+R0203,Please call 6756781724 for my lab summary. Ref PID:122028.,"[{""start"": 12, ""end"": 22, ""type"": ""PHONE""}, {""start"": 47, ""end"": 57, ""type"": ""MRN_UHID""}]"
+R0305,Contact number +966525896649 was written on the slip. Ref MRN-713534.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}, {""start"": 58, ""end"": 68, ""type"": ""MRN_UHID""}]"
+R0037,Submitted ID 203703826535 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+R0077,Submitted ID 560872438548 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+R0043,Please call +91-69765-82802 for my lab summary.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}]"
+R0121,Ms. Lakshmi Kurup waited at OPD for 40 mins. Ref PID:808534.,"[{""start"": 4, ""end"": 17, ""type"": ""NAME""}, {""start"": 49, ""end"": 59, ""type"": ""MRN_UHID""}]"
+RN0148,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0252,My name is Ramesh Varma during Cardiology visit.,"[{""start"": 11, ""end"": 23, ""type"": ""NAME""}]"
+R0301,Mr. Gayathri Subramanian waited at OPD for 40 mins.,"[{""start"": 4, ""end"": 24, ""type"": ""NAME""}]"
+R0106,Send final invoice to yusuf.darwish65@example-eval.test after approval.,"[{""start"": 22, ""end"": 55, ""type"": ""EMAIL""}]"
+R0074,Reception took mobile +971 59 780 2520 without sending SMS. Ref UHID-840019.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}, {""start"": 64, ""end"": 75, ""type"": ""MRN_UHID""}]"
+RN0134,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0034,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0164,Reception took mobile +971 59 868 0154 without sending SMS. Ref MRN-030225.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}, {""start"": 64, ""end"": 74, ""type"": ""MRN_UHID""}]"
+RN0014,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0288,Verified Emirates ID 784196277257550 before scan.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}]"
+RN0048,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0065,Contact number +966580700159 was written on the slip.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}]"
+R0264,Reception took mobile +971 56 126 5249 without sending SMS. Ref MRN-146203.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}, {""start"": 64, ""end"": 74, ""type"": ""MRN_UHID""}]"
+R0093,Please call +91 97447 96745 for my lab summary. Ref MRN-334635.,"[{""start"": 12, ""end"": 27, ""type"": ""PHONE""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+RN0080,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0365,Contact number +966 55 832 4363 was written on the slip.,"[{""start"": 15, ""end"": 31, ""type"": ""PHONE""}]"
+R0283,Please call 6452931313 for my lab summary.,"[{""start"": 12, ""end"": 22, ""type"": ""PHONE""}]"
+R0228,Verified Emirates ID 784198830375268 before scan. Ref MRN 860518.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}, {""start"": 54, ""end"": 64, ""type"": ""MRN_UHID""}]"
+RN0076,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0129,Checked Iqama 2239424646 at front desk.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}]"
+RN0123,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0009,Residency ID 2488766344 at front desk. Ref UHID-978753.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}, {""start"": 43, ""end"": 54, ""type"": ""MRN_UHID""}]"
+R0147,Submitted ID 257929923980 at admission desk. Ref UHID-370271.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}, {""start"": 49, ""end"": 60, ""type"": ""MRN_UHID""}]"
+RN0018,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0231,Mr. Nikhil Hegde waited at OPD for 40 mins. Ref PID:527436.,"[{""start"": 4, ""end"": 16, ""type"": ""NAME""}, {""start"": 48, ""end"": 58, ""type"": ""MRN_UHID""}]"
+RN0072,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+RN0038,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0266,Send final invoice to aishwarya.shenoy84@example-eval.test after approval. Ref PID:100294.,"[{""start"": 22, ""end"": 58, ""type"": ""EMAIL""}, {""start"": 79, ""end"": 89, ""type"": ""MRN_UHID""}]"
+RN0110,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0244,Reception took mobile +971 50 266 2797 without sending SMS. Ref MRN 669716.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}, {""start"": 64, ""end"": 74, ""type"": ""MRN_UHID""}]"
+R0398,Verified Emirates ID 784199177976565 before scan.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}]"
+R0170,File MRN 447660 was misplaced during handover. Ref MRN 139360.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}, {""start"": 51, ""end"": 61, ""type"": ""MRN_UHID""}]"
+R0070,File UHID-128357 was misplaced during handover. Ref MRN-854177.,"[{""start"": 5, ""end"": 16, ""type"": ""MRN_UHID""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+RN0101,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0068,Verified Emirates ID 784198889713311 before scan. Ref UHID-123636.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}, {""start"": 54, ""end"": 65, ""type"": ""MRN_UHID""}]"
+RN0147,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0014,Reception took mobile +971 52 701 0798 without sending SMS.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}]"
+RN0122,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+R0024,Reception took mobile +971513301756 without sending SMS.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}]"
+R0081,Patient Bilal Siddiqui waited at OPD for 40 mins.,"[{""start"": 8, ""end"": 22, ""type"": ""NAME""}]"
+R0396,Send final invoice to yusuf.darwish39@example-eval.test after approval. Ref PID:723873.,"[{""start"": 22, ""end"": 55, ""type"": ""EMAIL""}, {""start"": 76, ""end"": 86, ""type"": ""MRN_UHID""}]"
+R0232,Attended by Farhan Alotaibi during Cardiology visit. Ref MRN-041726.,"[{""start"": 12, ""end"": 27, ""type"": ""NAME""}, {""start"": 57, ""end"": 67, ""type"": ""MRN_UHID""}]"
+R0351,Dr. Yusuf Darwish waited at OPD for 40 mins.,"[{""start"": 4, ""end"": 17, ""type"": ""NAME""}]"
+R0096,Send final invoice to siddharth.bose91@example-eval.test after approval.,"[{""start"": 22, ""end"": 56, ""type"": ""EMAIL""}]"
+RN0021,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0041,Dr. Pranav Deshmukh waited at OPD for 40 mins.,"[{""start"": 4, ""end"": 19, ""type"": ""NAME""}]"
+R0174,Reception took mobile 058-326-6075 without sending SMS.,"[{""start"": 22, ""end"": 34, ""type"": ""PHONE""}]"
+R0161,Nurse Huda Alghamdi waited at OPD for 40 mins.,"[{""start"": 6, ""end"": 19, ""type"": ""NAME""}]"
+R0145,Contact number +966 56 715 5293 was written on the slip. Ref UHID-670812.,"[{""start"": 15, ""end"": 31, ""type"": ""PHONE""}, {""start"": 61, ""end"": 72, ""type"": ""MRN_UHID""}]"
+RN0029,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0128,Verified Emirates ID 784 1967 5141363 3 before scan. Ref UHID-701087.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}, {""start"": 57, ""end"": 68, ""type"": ""MRN_UHID""}]"
+R0102,Spoke to Farhan Alotaibi during Cardiology visit.,"[{""start"": 9, ""end"": 24, ""type"": ""NAME""}]"
+R0376,Send final invoice to pooja.reddy88@example-eval.test after approval.,"[{""start"": 22, ""end"": 53, ""type"": ""EMAIL""}]"
+RN0069,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0095,Contact number +966588645732 was written on the slip. Ref UHID-426927.,"[{""start"": 15, ""end"": 28, ""type"": ""PHONE""}, {""start"": 58, ""end"": 69, ""type"": ""MRN_UHID""}]"
+RN0120,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0198,Verified Emirates ID 784198498143317 before scan.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}]"
+RN0097,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+RN0139,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0025,Contact number +966 52 052 5898 was written on the slip. Ref PID:893949.,"[{""start"": 15, ""end"": 31, ""type"": ""PHONE""}, {""start"": 61, ""end"": 71, ""type"": ""MRN_UHID""}]"
+R0059,Checked Iqama 2755521824 at front desk.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}]"
+RN0008,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0377,Submitted ID 7478-5042-1034 at admission desk.,"[{""start"": 13, ""end"": 27, ""type"": ""AADHAAR""}]"
+RN0025,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+RN0084,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0112,Patient name: Siddharth Bose during Cardiology visit. Ref MRN-488015.,"[{""start"": 14, ""end"": 28, ""type"": ""NAME""}, {""start"": 58, ""end"": 68, ""type"": ""MRN_UHID""}]"
+RN0079,Lab CBC and ECG reports were uploaded in 4 hrs with zero billing issues.,[]
+R0384,Reception took mobile 052-852-4132 without sending SMS.,"[{""start"": 22, ""end"": 34, ""type"": ""PHONE""}]"
+R0042,Spoke to Farhan Alotaibi during Cardiology visit. Ref PID:484526.,"[{""start"": 9, ""end"": 24, ""type"": ""NAME""}, {""start"": 54, ""end"": 64, ""type"": ""MRN_UHID""}]"
+R0220,File MRN 055183 was misplaced during handover. Ref MRN-714655.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}, {""start"": 51, ""end"": 61, ""type"": ""MRN_UHID""}]"
+R0127,Submitted ID 881067090728 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+R0099,Checked Iqama 1279672683 at front desk. Ref MRN-113617.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}, {""start"": 44, ""end"": 54, ""type"": ""MRN_UHID""}]"
+R0242,Patient name: Siddharth Bose during Cardiology visit. Ref PID:431736.,"[{""start"": 14, ""end"": 28, ""type"": ""NAME""}, {""start"": 58, ""end"": 68, ""type"": ""MRN_UHID""}]"
+R0349,Checked Iqama 1325017832 at front desk.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}]"
+R0094,Reception took mobile +971 51 362 9586 without sending SMS.,"[{""start"": 22, ""end"": 38, ""type"": ""PHONE""}]"
+R0210,File MRN-016992 was misplaced during handover.,"[{""start"": 5, ""end"": 15, ""type"": ""MRN_UHID""}]"
+RN0077,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0184,Reception took mobile +971529471502 without sending SMS.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}]"
+R0066,Send final invoice to huda.alghamdi42@example-eval.test after approval. Ref MRN-283166.,"[{""start"": 22, ""end"": 55, ""type"": ""EMAIL""}, {""start"": 76, ""end"": 86, ""type"": ""MRN_UHID""}]"
+R0087,Submitted ID 376958519045 at admission desk. Ref MRN 349992.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}, {""start"": 49, ""end"": 59, ""type"": ""MRN_UHID""}]"
+R0116,Send final invoice to siddharth.bose49@example-eval.test after approval. Ref UHID-960179.,"[{""start"": 22, ""end"": 56, ""type"": ""EMAIL""}, {""start"": 77, ""end"": 88, ""type"": ""MRN_UHID""}]"
+R0092,Attended by Gayathri Subramanian during Cardiology visit.,"[{""start"": 12, ""end"": 32, ""type"": ""NAME""}]"
+R0385,Contact number +966 54 078 3424 was written on the slip. Ref PID:682782.,"[{""start"": 15, ""end"": 31, ""type"": ""PHONE""}, {""start"": 61, ""end"": 71, ""type"": ""MRN_UHID""}]"
+RN0092,Paid SAR 980 at the insurance TPA desk after a 90 mins wait on Tuesday.,[]
+R0199,Checked Iqama 2307477763 at front desk.,"[{""start"": 14, ""end"": 24, ""type"": ""IQAMA""}]"
+R0358,Verified Emirates ID 784 1960 3046186 6 before scan.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}]"
+R0086,Send final invoice to huda.alghamdi98@example-eval.test after approval. Ref PID:278120.,"[{""start"": 22, ""end"": 55, ""type"": ""EMAIL""}, {""start"": 76, ""end"": 86, ""type"": ""MRN_UHID""}]"
+R0052,My name is Amina Alzahrani during Cardiology visit. Ref MRN 775003.,"[{""start"": 11, ""end"": 26, ""type"": ""NAME""}, {""start"": 56, ""end"": 66, ""type"": ""MRN_UHID""}]"
+R0027,Submitted ID 362105218544 at admission desk.,"[{""start"": 13, ""end"": 25, ""type"": ""AADHAAR""}]"
+R0338,Verified Emirates ID 784 1979 8501228 2 before scan. Ref PID:980730.,"[{""start"": 21, ""end"": 39, ""type"": ""EMIRATES_ID""}, {""start"": 57, ""end"": 67, ""type"": ""MRN_UHID""}]"
+R0394,Reception took mobile 059-642-7751 without sending SMS. Ref MRN 472778.,"[{""start"": 22, ""end"": 34, ""type"": ""PHONE""}, {""start"": 60, ""end"": 70, ""type"": ""MRN_UHID""}]"
+R0372,Spoke to Manoj Tiwari during Cardiology visit.,"[{""start"": 9, ""end"": 21, ""type"": ""NAME""}]"
+R0292,Spoke to Lakshmi Kurup during Cardiology visit. Ref MRN-856903.,"[{""start"": 9, ""end"": 22, ""type"": ""NAME""}, {""start"": 52, ""end"": 62, ""type"": ""MRN_UHID""}]"
+RN0057,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0389,Residency ID 1144942552 at front desk.,"[{""start"": 13, ""end"": 23, ""type"": ""IQAMA""}]"
+RN0094,Pharmacy charged AED 640 for 250mg antibiotics and insulin vials on Wednesday.,[]
+RN0053,Spent 55 mins outside Neurology before being sent to Room 312 on 21/09/2026.,[]
+R0108,Verified Emirates ID 784198946439725 before scan.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}]"
+R0328,Verified Emirates ID 784199119668314 before scan.,"[{""start"": 21, ""end"": 36, ""type"": ""EMIRATES_ID""}]"
+R0204,Reception took mobile +971548525802 without sending SMS. Ref MRN 978176.,"[{""start"": 22, ""end"": 35, ""type"": ""PHONE""}, {""start"": 61, ""end"": 71, ""type"": ""MRN_UHID""}]"

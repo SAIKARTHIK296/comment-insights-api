@@ -1,0 +1,1081 @@
+date,departmentId,metric,count,is_planted_spike
+2026-05-01,dept-opd,waiting time,11,0
+2026-05-02,dept-opd,waiting time,16,0
+2026-05-03,dept-opd,waiting time,10,0
+2026-05-04,dept-opd,waiting time,21,0
+2026-05-05,dept-opd,waiting time,15,0
+2026-05-06,dept-opd,waiting time,29,0
+2026-05-07,dept-opd,waiting time,22,0
+2026-05-08,dept-opd,waiting time,12,0
+2026-05-09,dept-opd,waiting time,17,0
+2026-05-10,dept-opd,waiting time,10,0
+2026-05-11,dept-opd,waiting time,16,0
+2026-05-12,dept-opd,waiting time,18,0
+2026-05-13,dept-opd,waiting time,20,0
+2026-05-14,dept-opd,waiting time,18,0
+2026-05-15,dept-opd,waiting time,22,0
+2026-05-16,dept-opd,waiting time,20,0
+2026-05-17,dept-opd,waiting time,10,0
+2026-05-18,dept-opd,waiting time,14,0
+2026-05-19,dept-opd,waiting time,20,0
+2026-05-20,dept-opd,waiting time,19,0
+2026-05-21,dept-opd,waiting time,22,0
+2026-05-22,dept-opd,waiting time,14,0
+2026-05-23,dept-opd,waiting time,24,0
+2026-05-24,dept-opd,waiting time,11,0
+2026-05-25,dept-opd,waiting time,25,0
+2026-05-26,dept-opd,waiting time,17,0
+2026-05-27,dept-opd,waiting time,15,0
+2026-05-28,dept-opd,waiting time,18,0
+2026-05-29,dept-opd,waiting time,22,0
+2026-05-30,dept-opd,waiting time,18,0
+2026-05-31,dept-opd,waiting time,14,0
+2026-06-01,dept-opd,waiting time,19,0
+2026-06-02,dept-opd,waiting time,9,0
+2026-06-03,dept-opd,waiting time,11,0
+2026-06-04,dept-opd,waiting time,17,0
+2026-06-05,dept-opd,waiting time,16,0
+2026-06-06,dept-opd,waiting time,16,0
+2026-06-07,dept-opd,waiting time,6,0
+2026-06-08,dept-opd,waiting time,19,0
+2026-06-09,dept-opd,waiting time,23,0
+2026-06-10,dept-opd,waiting time,24,0
+2026-06-11,dept-opd,waiting time,16,0
+2026-06-12,dept-opd,waiting time,82,1
+2026-06-13,dept-opd,waiting time,22,0
+2026-06-14,dept-opd,waiting time,13,0
+2026-06-15,dept-opd,waiting time,19,0
+2026-06-16,dept-opd,waiting time,26,0
+2026-06-17,dept-opd,waiting time,16,0
+2026-06-18,dept-opd,waiting time,14,0
+2026-06-19,dept-opd,waiting time,21,0
+2026-06-20,dept-opd,waiting time,20,0
+2026-06-21,dept-opd,waiting time,7,0
+2026-06-22,dept-opd,waiting time,20,0
+2026-06-23,dept-opd,waiting time,14,0
+2026-06-24,dept-opd,waiting time,21,0
+2026-06-25,dept-opd,waiting time,15,0
+2026-06-26,dept-opd,waiting time,25,0
+2026-06-27,dept-opd,waiting time,19,0
+2026-06-28,dept-opd,waiting time,10,0
+2026-06-29,dept-opd,waiting time,24,0
+2026-06-30,dept-opd,waiting time,14,0
+2026-07-01,dept-opd,waiting time,18,0
+2026-07-02,dept-opd,waiting time,16,0
+2026-07-03,dept-opd,waiting time,21,0
+2026-07-04,dept-opd,waiting time,16,0
+2026-07-05,dept-opd,waiting time,2,0
+2026-07-06,dept-opd,waiting time,18,0
+2026-07-07,dept-opd,waiting time,20,0
+2026-07-08,dept-opd,waiting time,13,0
+2026-07-09,dept-opd,waiting time,16,0
+2026-07-10,dept-opd,waiting time,17,0
+2026-07-11,dept-opd,waiting time,36,0
+2026-07-12,dept-opd,waiting time,12,0
+2026-07-13,dept-opd,waiting time,15,0
+2026-07-14,dept-opd,waiting time,19,0
+2026-07-15,dept-opd,waiting time,17,0
+2026-07-16,dept-opd,waiting time,21,0
+2026-07-17,dept-opd,waiting time,16,0
+2026-07-18,dept-opd,waiting time,60,1
+2026-07-19,dept-opd,waiting time,10,0
+2026-07-20,dept-opd,waiting time,19,0
+2026-07-21,dept-opd,waiting time,14,0
+2026-07-22,dept-opd,waiting time,9,0
+2026-07-23,dept-opd,waiting time,17,0
+2026-07-24,dept-opd,waiting time,12,0
+2026-07-25,dept-opd,waiting time,20,0
+2026-07-26,dept-opd,waiting time,10,0
+2026-07-27,dept-opd,waiting time,21,0
+2026-07-28,dept-opd,waiting time,17,0
+2026-07-29,dept-opd,waiting time,20,0
+2026-07-30,dept-opd,waiting time,18,0
+2026-07-31,dept-opd,waiting time,16,0
+2026-08-01,dept-opd,waiting time,18,0
+2026-08-02,dept-opd,waiting time,9,0
+2026-08-03,dept-opd,waiting time,24,0
+2026-08-04,dept-opd,waiting time,26,0
+2026-08-05,dept-opd,waiting time,22,0
+2026-08-06,dept-opd,waiting time,17,0
+2026-08-07,dept-opd,waiting time,14,0
+2026-08-08,dept-opd,waiting time,19,0
+2026-08-09,dept-opd,waiting time,8,0
+2026-08-10,dept-opd,waiting time,13,0
+2026-08-11,dept-opd,waiting time,20,0
+2026-08-12,dept-opd,waiting time,13,0
+2026-08-13,dept-opd,waiting time,19,0
+2026-08-14,dept-opd,waiting time,11,0
+2026-08-15,dept-opd,waiting time,17,0
+2026-08-16,dept-opd,waiting time,11,0
+2026-08-17,dept-opd,waiting time,21,0
+2026-08-18,dept-opd,waiting time,14,0
+2026-08-19,dept-opd,waiting time,27,0
+2026-08-20,dept-opd,waiting time,18,0
+2026-08-21,dept-opd,waiting time,17,0
+2026-08-22,dept-opd,waiting time,27,0
+2026-08-23,dept-opd,waiting time,13,0
+2026-08-24,dept-opd,waiting time,11,0
+2026-08-25,dept-opd,waiting time,20,0
+2026-08-26,dept-opd,waiting time,20,0
+2026-08-27,dept-opd,waiting time,20,0
+2026-08-28,dept-opd,waiting time,70,1
+2026-08-29,dept-opd,waiting time,33,0
+2026-08-30,dept-opd,waiting time,12,0
+2026-08-31,dept-opd,waiting time,15,0
+2026-09-01,dept-opd,waiting time,13,0
+2026-09-02,dept-opd,waiting time,24,0
+2026-09-03,dept-opd,waiting time,21,0
+2026-09-04,dept-opd,waiting time,17,0
+2026-09-05,dept-opd,waiting time,16,0
+2026-09-06,dept-opd,waiting time,7,0
+2026-09-07,dept-opd,waiting time,21,0
+2026-09-08,dept-opd,waiting time,16,0
+2026-09-09,dept-opd,waiting time,19,0
+2026-09-10,dept-opd,waiting time,25,0
+2026-09-11,dept-opd,waiting time,14,0
+2026-09-12,dept-opd,waiting time,19,0
+2026-09-13,dept-opd,waiting time,9,0
+2026-09-14,dept-opd,waiting time,22,0
+2026-09-15,dept-opd,waiting time,21,0
+2026-09-16,dept-opd,waiting time,20,0
+2026-09-17,dept-opd,waiting time,28,0
+2026-09-18,dept-opd,waiting time,21,0
+2026-09-19,dept-opd,waiting time,25,0
+2026-09-20,dept-opd,waiting time,10,0
+2026-09-21,dept-opd,waiting time,19,0
+2026-09-22,dept-opd,waiting time,27,0
+2026-09-23,dept-opd,waiting time,16,0
+2026-09-24,dept-opd,waiting time,19,0
+2026-09-25,dept-opd,waiting time,20,0
+2026-09-26,dept-opd,waiting time,19,0
+2026-09-27,dept-opd,waiting time,8,0
+2026-09-28,dept-opd,waiting time,13,0
+2026-09-29,dept-opd,waiting time,25,0
+2026-09-30,dept-opd,waiting time,19,0
+2026-10-01,dept-opd,waiting time,10,0
+2026-10-02,dept-opd,waiting time,21,0
+2026-10-03,dept-opd,waiting time,24,0
+2026-10-04,dept-opd,waiting time,33,1
+2026-10-05,dept-opd,waiting time,12,0
+2026-10-06,dept-opd,waiting time,14,0
+2026-10-07,dept-opd,waiting time,16,0
+2026-10-08,dept-opd,waiting time,16,0
+2026-10-09,dept-opd,waiting time,17,0
+2026-10-10,dept-opd,waiting time,23,0
+2026-10-11,dept-opd,waiting time,10,0
+2026-10-12,dept-opd,waiting time,15,0
+2026-10-13,dept-opd,waiting time,13,0
+2026-10-14,dept-opd,waiting time,18,0
+2026-10-15,dept-opd,waiting time,23,0
+2026-10-16,dept-opd,waiting time,21,0
+2026-10-17,dept-opd,waiting time,19,0
+2026-10-18,dept-opd,waiting time,6,0
+2026-10-19,dept-opd,waiting time,27,0
+2026-10-20,dept-opd,waiting time,21,0
+2026-10-21,dept-opd,waiting time,20,0
+2026-10-22,dept-opd,waiting time,17,0
+2026-10-23,dept-opd,waiting time,18,0
+2026-10-24,dept-opd,waiting time,19,0
+2026-10-25,dept-opd,waiting time,11,0
+2026-10-26,dept-opd,waiting time,16,0
+2026-10-27,dept-opd,waiting time,16,0
+2026-05-01,dept-billing,billing and insurance,11,0
+2026-05-02,dept-billing,billing and insurance,8,0
+2026-05-03,dept-billing,billing and insurance,8,0
+2026-05-04,dept-billing,billing and insurance,14,0
+2026-05-05,dept-billing,billing and insurance,9,0
+2026-05-06,dept-billing,billing and insurance,11,0
+2026-05-07,dept-billing,billing and insurance,11,0
+2026-05-08,dept-billing,billing and insurance,8,0
+2026-05-09,dept-billing,billing and insurance,18,0
+2026-05-10,dept-billing,billing and insurance,8,0
+2026-05-11,dept-billing,billing and insurance,11,0
+2026-05-12,dept-billing,billing and insurance,14,0
+2026-05-13,dept-billing,billing and insurance,12,0
+2026-05-14,dept-billing,billing and insurance,15,0
+2026-05-15,dept-billing,billing and insurance,12,0
+2026-05-16,dept-billing,billing and insurance,12,0
+2026-05-17,dept-billing,billing and insurance,7,0
+2026-05-18,dept-billing,billing and insurance,13,0
+2026-05-19,dept-billing,billing and insurance,15,0
+2026-05-20,dept-billing,billing and insurance,15,0
+2026-05-21,dept-billing,billing and insurance,7,0
+2026-05-22,dept-billing,billing and insurance,12,0
+2026-05-23,dept-billing,billing and insurance,11,0
+2026-05-24,dept-billing,billing and insurance,3,0
+2026-05-25,dept-billing,billing and insurance,9,0
+2026-05-26,dept-billing,billing and insurance,13,0
+2026-05-27,dept-billing,billing and insurance,13,0
+2026-05-28,dept-billing,billing and insurance,19,0
+2026-05-29,dept-billing,billing and insurance,13,0
+2026-05-30,dept-billing,billing and insurance,13,0
+2026-05-31,dept-billing,billing and insurance,5,0
+2026-06-01,dept-billing,billing and insurance,7,0
+2026-06-02,dept-billing,billing and insurance,7,0
+2026-06-03,dept-billing,billing and insurance,8,0
+2026-06-04,dept-billing,billing and insurance,14,0
+2026-06-05,dept-billing,billing and insurance,14,0
+2026-06-06,dept-billing,billing and insurance,55,1
+2026-06-07,dept-billing,billing and insurance,5,0
+2026-06-08,dept-billing,billing and insurance,6,0
+2026-06-09,dept-billing,billing and insurance,14,0
+2026-06-10,dept-billing,billing and insurance,8,0
+2026-06-11,dept-billing,billing and insurance,8,0
+2026-06-12,dept-billing,billing and insurance,8,0
+2026-06-13,dept-billing,billing and insurance,10,0
+2026-06-14,dept-billing,billing and insurance,6,0
+2026-06-15,dept-billing,billing and insurance,19,0
+2026-06-16,dept-billing,billing and insurance,17,0
+2026-06-17,dept-billing,billing and insurance,12,0
+2026-06-18,dept-billing,billing and insurance,9,0
+2026-06-19,dept-billing,billing and insurance,11,0
+2026-06-20,dept-billing,billing and insurance,9,0
+2026-06-21,dept-billing,billing and insurance,3,0
+2026-06-22,dept-billing,billing and insurance,15,0
+2026-06-23,dept-billing,billing and insurance,26,0
+2026-06-24,dept-billing,billing and insurance,9,0
+2026-06-25,dept-billing,billing and insurance,9,0
+2026-06-26,dept-billing,billing and insurance,9,0
+2026-06-27,dept-billing,billing and insurance,16,0
+2026-06-28,dept-billing,billing and insurance,3,0
+2026-06-29,dept-billing,billing and insurance,10,0
+2026-06-30,dept-billing,billing and insurance,6,0
+2026-07-01,dept-billing,billing and insurance,7,0
+2026-07-02,dept-billing,billing and insurance,16,0
+2026-07-03,dept-billing,billing and insurance,11,0
+2026-07-04,dept-billing,billing and insurance,13,0
+2026-07-05,dept-billing,billing and insurance,9,0
+2026-07-06,dept-billing,billing and insurance,11,0
+2026-07-07,dept-billing,billing and insurance,9,0
+2026-07-08,dept-billing,billing and insurance,8,0
+2026-07-09,dept-billing,billing and insurance,8,0
+2026-07-10,dept-billing,billing and insurance,18,0
+2026-07-11,dept-billing,billing and insurance,16,0
+2026-07-12,dept-billing,billing and insurance,12,0
+2026-07-13,dept-billing,billing and insurance,14,0
+2026-07-14,dept-billing,billing and insurance,12,0
+2026-07-15,dept-billing,billing and insurance,16,0
+2026-07-16,dept-billing,billing and insurance,16,0
+2026-07-17,dept-billing,billing and insurance,12,0
+2026-07-18,dept-billing,billing and insurance,15,0
+2026-07-19,dept-billing,billing and insurance,8,0
+2026-07-20,dept-billing,billing and insurance,15,0
+2026-07-21,dept-billing,billing and insurance,12,0
+2026-07-22,dept-billing,billing and insurance,8,0
+2026-07-23,dept-billing,billing and insurance,25,0
+2026-07-24,dept-billing,billing and insurance,8,0
+2026-07-25,dept-billing,billing and insurance,9,0
+2026-07-26,dept-billing,billing and insurance,11,0
+2026-07-27,dept-billing,billing and insurance,12,0
+2026-07-28,dept-billing,billing and insurance,12,0
+2026-07-29,dept-billing,billing and insurance,14,0
+2026-07-30,dept-billing,billing and insurance,18,0
+2026-07-31,dept-billing,billing and insurance,43,1
+2026-08-01,dept-billing,billing and insurance,10,0
+2026-08-02,dept-billing,billing and insurance,5,0
+2026-08-03,dept-billing,billing and insurance,16,0
+2026-08-04,dept-billing,billing and insurance,13,0
+2026-08-05,dept-billing,billing and insurance,20,0
+2026-08-06,dept-billing,billing and insurance,13,0
+2026-08-07,dept-billing,billing and insurance,20,0
+2026-08-08,dept-billing,billing and insurance,18,0
+2026-08-09,dept-billing,billing and insurance,6,0
+2026-08-10,dept-billing,billing and insurance,14,0
+2026-08-11,dept-billing,billing and insurance,6,0
+2026-08-12,dept-billing,billing and insurance,13,0
+2026-08-13,dept-billing,billing and insurance,7,0
+2026-08-14,dept-billing,billing and insurance,11,0
+2026-08-15,dept-billing,billing and insurance,15,0
+2026-08-16,dept-billing,billing and insurance,7,0
+2026-08-17,dept-billing,billing and insurance,10,0
+2026-08-18,dept-billing,billing and insurance,10,0
+2026-08-19,dept-billing,billing and insurance,2,0
+2026-08-20,dept-billing,billing and insurance,10,0
+2026-08-21,dept-billing,billing and insurance,12,0
+2026-08-22,dept-billing,billing and insurance,14,0
+2026-08-23,dept-billing,billing and insurance,7,0
+2026-08-24,dept-billing,billing and insurance,18,0
+2026-08-25,dept-billing,billing and insurance,16,0
+2026-08-26,dept-billing,billing and insurance,18,0
+2026-08-27,dept-billing,billing and insurance,11,0
+2026-08-28,dept-billing,billing and insurance,14,0
+2026-08-29,dept-billing,billing and insurance,10,0
+2026-08-30,dept-billing,billing and insurance,5,0
+2026-08-31,dept-billing,billing and insurance,8,0
+2026-09-01,dept-billing,billing and insurance,6,0
+2026-09-02,dept-billing,billing and insurance,9,0
+2026-09-03,dept-billing,billing and insurance,12,0
+2026-09-04,dept-billing,billing and insurance,10,0
+2026-09-05,dept-billing,billing and insurance,12,0
+2026-09-06,dept-billing,billing and insurance,3,0
+2026-09-07,dept-billing,billing and insurance,13,0
+2026-09-08,dept-billing,billing and insurance,10,0
+2026-09-09,dept-billing,billing and insurance,15,0
+2026-09-10,dept-billing,billing and insurance,8,0
+2026-09-11,dept-billing,billing and insurance,11,0
+2026-09-12,dept-billing,billing and insurance,12,0
+2026-09-13,dept-billing,billing and insurance,7,0
+2026-09-14,dept-billing,billing and insurance,11,0
+2026-09-15,dept-billing,billing and insurance,8,0
+2026-09-16,dept-billing,billing and insurance,13,0
+2026-09-17,dept-billing,billing and insurance,13,0
+2026-09-18,dept-billing,billing and insurance,50,1
+2026-09-19,dept-billing,billing and insurance,9,0
+2026-09-20,dept-billing,billing and insurance,4,0
+2026-09-21,dept-billing,billing and insurance,12,0
+2026-09-22,dept-billing,billing and insurance,15,0
+2026-09-23,dept-billing,billing and insurance,15,0
+2026-09-24,dept-billing,billing and insurance,17,0
+2026-09-25,dept-billing,billing and insurance,17,0
+2026-09-26,dept-billing,billing and insurance,15,0
+2026-09-27,dept-billing,billing and insurance,5,0
+2026-09-28,dept-billing,billing and insurance,15,0
+2026-09-29,dept-billing,billing and insurance,19,0
+2026-09-30,dept-billing,billing and insurance,12,0
+2026-10-01,dept-billing,billing and insurance,14,0
+2026-10-02,dept-billing,billing and insurance,23,0
+2026-10-03,dept-billing,billing and insurance,13,0
+2026-10-04,dept-billing,billing and insurance,8,0
+2026-10-05,dept-billing,billing and insurance,12,0
+2026-10-06,dept-billing,billing and insurance,12,0
+2026-10-07,dept-billing,billing and insurance,16,0
+2026-10-08,dept-billing,billing and insurance,15,0
+2026-10-09,dept-billing,billing and insurance,16,0
+2026-10-10,dept-billing,billing and insurance,11,0
+2026-10-11,dept-billing,billing and insurance,3,0
+2026-10-12,dept-billing,billing and insurance,12,0
+2026-10-13,dept-billing,billing and insurance,19,0
+2026-10-14,dept-billing,billing and insurance,13,0
+2026-10-15,dept-billing,billing and insurance,14,0
+2026-10-16,dept-billing,billing and insurance,15,0
+2026-10-17,dept-billing,billing and insurance,13,0
+2026-10-18,dept-billing,billing and insurance,27,1
+2026-10-19,dept-billing,billing and insurance,15,0
+2026-10-20,dept-billing,billing and insurance,15,0
+2026-10-21,dept-billing,billing and insurance,12,0
+2026-10-22,dept-billing,billing and insurance,13,0
+2026-10-23,dept-billing,billing and insurance,18,0
+2026-10-24,dept-billing,billing and insurance,15,0
+2026-10-25,dept-billing,billing and insurance,12,0
+2026-10-26,dept-billing,billing and insurance,17,0
+2026-10-27,dept-billing,billing and insurance,9,0
+2026-05-01,dept-pharmacy,pharmacy,13,0
+2026-05-02,dept-pharmacy,pharmacy,15,0
+2026-05-03,dept-pharmacy,pharmacy,11,0
+2026-05-04,dept-pharmacy,pharmacy,17,0
+2026-05-05,dept-pharmacy,pharmacy,6,0
+2026-05-06,dept-pharmacy,pharmacy,14,0
+2026-05-07,dept-pharmacy,pharmacy,16,0
+2026-05-08,dept-pharmacy,pharmacy,8,0
+2026-05-09,dept-pharmacy,pharmacy,13,0
+2026-05-10,dept-pharmacy,pharmacy,4,0
+2026-05-11,dept-pharmacy,pharmacy,16,0
+2026-05-12,dept-pharmacy,pharmacy,12,0
+2026-05-13,dept-pharmacy,pharmacy,6,0
+2026-05-14,dept-pharmacy,pharmacy,11,0
+2026-05-15,dept-pharmacy,pharmacy,14,0
+2026-05-16,dept-pharmacy,pharmacy,16,0
+2026-05-17,dept-pharmacy,pharmacy,6,0
+2026-05-18,dept-pharmacy,pharmacy,16,0
+2026-05-19,dept-pharmacy,pharmacy,15,0
+2026-05-20,dept-pharmacy,pharmacy,20,0
+2026-05-21,dept-pharmacy,pharmacy,15,0
+2026-05-22,dept-pharmacy,pharmacy,14,0
+2026-05-23,dept-pharmacy,pharmacy,13,0
+2026-05-24,dept-pharmacy,pharmacy,6,0
+2026-05-25,dept-pharmacy,pharmacy,9,0
+2026-05-26,dept-pharmacy,pharmacy,7,0
+2026-05-27,dept-pharmacy,pharmacy,13,0
+2026-05-28,dept-pharmacy,pharmacy,16,0
+2026-05-29,dept-pharmacy,pharmacy,13,0
+2026-05-30,dept-pharmacy,pharmacy,23,0
+2026-05-31,dept-pharmacy,pharmacy,7,0
+2026-06-01,dept-pharmacy,pharmacy,6,0
+2026-06-02,dept-pharmacy,pharmacy,18,0
+2026-06-03,dept-pharmacy,pharmacy,15,0
+2026-06-04,dept-pharmacy,pharmacy,16,0
+2026-06-05,dept-pharmacy,pharmacy,14,0
+2026-06-06,dept-pharmacy,pharmacy,14,0
+2026-06-07,dept-pharmacy,pharmacy,9,0
+2026-06-08,dept-pharmacy,pharmacy,11,0
+2026-06-09,dept-pharmacy,pharmacy,13,0
+2026-06-10,dept-pharmacy,pharmacy,8,0
+2026-06-11,dept-pharmacy,pharmacy,14,0
+2026-06-12,dept-pharmacy,pharmacy,10,0
+2026-06-13,dept-pharmacy,pharmacy,9,0
+2026-06-14,dept-pharmacy,pharmacy,6,0
+2026-06-15,dept-pharmacy,pharmacy,7,0
+2026-06-16,dept-pharmacy,pharmacy,9,0
+2026-06-17,dept-pharmacy,pharmacy,16,0
+2026-06-18,dept-pharmacy,pharmacy,47,1
+2026-06-19,dept-pharmacy,pharmacy,15,0
+2026-06-20,dept-pharmacy,pharmacy,11,0
+2026-06-21,dept-pharmacy,pharmacy,6,0
+2026-06-22,dept-pharmacy,pharmacy,10,0
+2026-06-23,dept-pharmacy,pharmacy,15,0
+2026-06-24,dept-pharmacy,pharmacy,25,0
+2026-06-25,dept-pharmacy,pharmacy,16,0
+2026-06-26,dept-pharmacy,pharmacy,14,0
+2026-06-27,dept-pharmacy,pharmacy,16,0
+2026-06-28,dept-pharmacy,pharmacy,4,0
+2026-06-29,dept-pharmacy,pharmacy,19,0
+2026-06-30,dept-pharmacy,pharmacy,8,0
+2026-07-01,dept-pharmacy,pharmacy,18,0
+2026-07-02,dept-pharmacy,pharmacy,13,0
+2026-07-03,dept-pharmacy,pharmacy,10,0
+2026-07-04,dept-pharmacy,pharmacy,20,0
+2026-07-05,dept-pharmacy,pharmacy,8,0
+2026-07-06,dept-pharmacy,pharmacy,17,0
+2026-07-07,dept-pharmacy,pharmacy,20,0
+2026-07-08,dept-pharmacy,pharmacy,14,0
+2026-07-09,dept-pharmacy,pharmacy,13,0
+2026-07-10,dept-pharmacy,pharmacy,14,0
+2026-07-11,dept-pharmacy,pharmacy,13,0
+2026-07-12,dept-pharmacy,pharmacy,8,0
+2026-07-13,dept-pharmacy,pharmacy,17,0
+2026-07-14,dept-pharmacy,pharmacy,15,0
+2026-07-15,dept-pharmacy,pharmacy,8,0
+2026-07-16,dept-pharmacy,pharmacy,13,0
+2026-07-17,dept-pharmacy,pharmacy,12,0
+2026-07-18,dept-pharmacy,pharmacy,16,0
+2026-07-19,dept-pharmacy,pharmacy,10,0
+2026-07-20,dept-pharmacy,pharmacy,14,0
+2026-07-21,dept-pharmacy,pharmacy,13,0
+2026-07-22,dept-pharmacy,pharmacy,16,0
+2026-07-23,dept-pharmacy,pharmacy,9,0
+2026-07-24,dept-pharmacy,pharmacy,64,1
+2026-07-25,dept-pharmacy,pharmacy,15,0
+2026-07-26,dept-pharmacy,pharmacy,10,0
+2026-07-27,dept-pharmacy,pharmacy,13,0
+2026-07-28,dept-pharmacy,pharmacy,10,0
+2026-07-29,dept-pharmacy,pharmacy,14,0
+2026-07-30,dept-pharmacy,pharmacy,12,0
+2026-07-31,dept-pharmacy,pharmacy,13,0
+2026-08-01,dept-pharmacy,pharmacy,12,0
+2026-08-02,dept-pharmacy,pharmacy,9,0
+2026-08-03,dept-pharmacy,pharmacy,15,0
+2026-08-04,dept-pharmacy,pharmacy,15,0
+2026-08-05,dept-pharmacy,pharmacy,14,0
+2026-08-06,dept-pharmacy,pharmacy,7,0
+2026-08-07,dept-pharmacy,pharmacy,20,0
+2026-08-08,dept-pharmacy,pharmacy,12,0
+2026-08-09,dept-pharmacy,pharmacy,1,0
+2026-08-10,dept-pharmacy,pharmacy,14,0
+2026-08-11,dept-pharmacy,pharmacy,17,0
+2026-08-12,dept-pharmacy,pharmacy,19,0
+2026-08-13,dept-pharmacy,pharmacy,24,0
+2026-08-14,dept-pharmacy,pharmacy,23,0
+2026-08-15,dept-pharmacy,pharmacy,18,0
+2026-08-16,dept-pharmacy,pharmacy,6,0
+2026-08-17,dept-pharmacy,pharmacy,8,0
+2026-08-18,dept-pharmacy,pharmacy,14,0
+2026-08-19,dept-pharmacy,pharmacy,11,0
+2026-08-20,dept-pharmacy,pharmacy,12,0
+2026-08-21,dept-pharmacy,pharmacy,15,0
+2026-08-22,dept-pharmacy,pharmacy,10,0
+2026-08-23,dept-pharmacy,pharmacy,5,0
+2026-08-24,dept-pharmacy,pharmacy,24,0
+2026-08-25,dept-pharmacy,pharmacy,12,0
+2026-08-26,dept-pharmacy,pharmacy,14,0
+2026-08-27,dept-pharmacy,pharmacy,12,0
+2026-08-28,dept-pharmacy,pharmacy,9,0
+2026-08-29,dept-pharmacy,pharmacy,18,0
+2026-08-30,dept-pharmacy,pharmacy,8,0
+2026-08-31,dept-pharmacy,pharmacy,14,0
+2026-09-01,dept-pharmacy,pharmacy,24,0
+2026-09-02,dept-pharmacy,pharmacy,19,0
+2026-09-03,dept-pharmacy,pharmacy,13,0
+2026-09-04,dept-pharmacy,pharmacy,17,0
+2026-09-05,dept-pharmacy,pharmacy,11,0
+2026-09-06,dept-pharmacy,pharmacy,4,0
+2026-09-07,dept-pharmacy,pharmacy,21,0
+2026-09-08,dept-pharmacy,pharmacy,16,0
+2026-09-09,dept-pharmacy,pharmacy,14,0
+2026-09-10,dept-pharmacy,pharmacy,52,1
+2026-09-11,dept-pharmacy,pharmacy,21,0
+2026-09-12,dept-pharmacy,pharmacy,14,0
+2026-09-13,dept-pharmacy,pharmacy,8,0
+2026-09-14,dept-pharmacy,pharmacy,19,0
+2026-09-15,dept-pharmacy,pharmacy,17,0
+2026-09-16,dept-pharmacy,pharmacy,9,0
+2026-09-17,dept-pharmacy,pharmacy,14,0
+2026-09-18,dept-pharmacy,pharmacy,13,0
+2026-09-19,dept-pharmacy,pharmacy,13,0
+2026-09-20,dept-pharmacy,pharmacy,12,0
+2026-09-21,dept-pharmacy,pharmacy,22,0
+2026-09-22,dept-pharmacy,pharmacy,12,0
+2026-09-23,dept-pharmacy,pharmacy,14,0
+2026-09-24,dept-pharmacy,pharmacy,13,0
+2026-09-25,dept-pharmacy,pharmacy,18,0
+2026-09-26,dept-pharmacy,pharmacy,19,0
+2026-09-27,dept-pharmacy,pharmacy,7,0
+2026-09-28,dept-pharmacy,pharmacy,13,0
+2026-09-29,dept-pharmacy,pharmacy,16,0
+2026-09-30,dept-pharmacy,pharmacy,13,0
+2026-10-01,dept-pharmacy,pharmacy,17,0
+2026-10-02,dept-pharmacy,pharmacy,12,0
+2026-10-03,dept-pharmacy,pharmacy,21,0
+2026-10-04,dept-pharmacy,pharmacy,5,0
+2026-10-05,dept-pharmacy,pharmacy,17,0
+2026-10-06,dept-pharmacy,pharmacy,24,0
+2026-10-07,dept-pharmacy,pharmacy,16,0
+2026-10-08,dept-pharmacy,pharmacy,16,0
+2026-10-09,dept-pharmacy,pharmacy,9,0
+2026-10-10,dept-pharmacy,pharmacy,16,0
+2026-10-11,dept-pharmacy,pharmacy,12,0
+2026-10-12,dept-pharmacy,pharmacy,17,0
+2026-10-13,dept-pharmacy,pharmacy,12,0
+2026-10-14,dept-pharmacy,pharmacy,15,0
+2026-10-15,dept-pharmacy,pharmacy,22,0
+2026-10-16,dept-pharmacy,pharmacy,16,0
+2026-10-17,dept-pharmacy,pharmacy,13,0
+2026-10-18,dept-pharmacy,pharmacy,7,0
+2026-10-19,dept-pharmacy,pharmacy,15,0
+2026-10-20,dept-pharmacy,pharmacy,9,0
+2026-10-21,dept-pharmacy,pharmacy,8,0
+2026-10-22,dept-pharmacy,pharmacy,11,0
+2026-10-23,dept-pharmacy,pharmacy,15,0
+2026-10-24,dept-pharmacy,pharmacy,16,0
+2026-10-25,dept-pharmacy,pharmacy,7,0
+2026-10-26,dept-pharmacy,pharmacy,22,0
+2026-10-27,dept-pharmacy,pharmacy,17,0
+2026-05-01,dept-lab,reports and lab,7,0
+2026-05-02,dept-lab,reports and lab,7,0
+2026-05-03,dept-lab,reports and lab,9,0
+2026-05-04,dept-lab,reports and lab,10,0
+2026-05-05,dept-lab,reports and lab,3,0
+2026-05-06,dept-lab,reports and lab,8,0
+2026-05-07,dept-lab,reports and lab,10,0
+2026-05-08,dept-lab,reports and lab,4,0
+2026-05-09,dept-lab,reports and lab,9,0
+2026-05-10,dept-lab,reports and lab,3,0
+2026-05-11,dept-lab,reports and lab,5,0
+2026-05-12,dept-lab,reports and lab,10,0
+2026-05-13,dept-lab,reports and lab,15,0
+2026-05-14,dept-lab,reports and lab,7,0
+2026-05-15,dept-lab,reports and lab,10,0
+2026-05-16,dept-lab,reports and lab,13,0
+2026-05-17,dept-lab,reports and lab,4,0
+2026-05-18,dept-lab,reports and lab,8,0
+2026-05-19,dept-lab,reports and lab,10,0
+2026-05-20,dept-lab,reports and lab,8,0
+2026-05-21,dept-lab,reports and lab,6,0
+2026-05-22,dept-lab,reports and lab,10,0
+2026-05-23,dept-lab,reports and lab,13,0
+2026-05-24,dept-lab,reports and lab,6,0
+2026-05-25,dept-lab,reports and lab,6,0
+2026-05-26,dept-lab,reports and lab,6,0
+2026-05-27,dept-lab,reports and lab,7,0
+2026-05-28,dept-lab,reports and lab,4,0
+2026-05-29,dept-lab,reports and lab,6,0
+2026-05-30,dept-lab,reports and lab,6,0
+2026-05-31,dept-lab,reports and lab,8,0
+2026-06-01,dept-lab,reports and lab,13,0
+2026-06-02,dept-lab,reports and lab,7,0
+2026-06-03,dept-lab,reports and lab,5,0
+2026-06-04,dept-lab,reports and lab,3,0
+2026-06-05,dept-lab,reports and lab,8,0
+2026-06-06,dept-lab,reports and lab,7,0
+2026-06-07,dept-lab,reports and lab,4,0
+2026-06-08,dept-lab,reports and lab,7,0
+2026-06-09,dept-lab,reports and lab,8,0
+2026-06-10,dept-lab,reports and lab,6,0
+2026-06-11,dept-lab,reports and lab,5,0
+2026-06-12,dept-lab,reports and lab,11,0
+2026-06-13,dept-lab,reports and lab,8,0
+2026-06-14,dept-lab,reports and lab,4,0
+2026-06-15,dept-lab,reports and lab,7,0
+2026-06-16,dept-lab,reports and lab,10,0
+2026-06-17,dept-lab,reports and lab,6,0
+2026-06-18,dept-lab,reports and lab,9,0
+2026-06-19,dept-lab,reports and lab,10,0
+2026-06-20,dept-lab,reports and lab,5,0
+2026-06-21,dept-lab,reports and lab,3,0
+2026-06-22,dept-lab,reports and lab,7,0
+2026-06-23,dept-lab,reports and lab,9,0
+2026-06-24,dept-lab,reports and lab,15,0
+2026-06-25,dept-lab,reports and lab,27,1
+2026-06-26,dept-lab,reports and lab,10,0
+2026-06-27,dept-lab,reports and lab,10,0
+2026-06-28,dept-lab,reports and lab,6,0
+2026-06-29,dept-lab,reports and lab,7,0
+2026-06-30,dept-lab,reports and lab,10,0
+2026-07-01,dept-lab,reports and lab,11,0
+2026-07-02,dept-lab,reports and lab,8,0
+2026-07-03,dept-lab,reports and lab,3,0
+2026-07-04,dept-lab,reports and lab,9,0
+2026-07-05,dept-lab,reports and lab,0,0
+2026-07-06,dept-lab,reports and lab,7,0
+2026-07-07,dept-lab,reports and lab,10,0
+2026-07-08,dept-lab,reports and lab,12,0
+2026-07-09,dept-lab,reports and lab,8,0
+2026-07-10,dept-lab,reports and lab,14,0
+2026-07-11,dept-lab,reports and lab,13,0
+2026-07-12,dept-lab,reports and lab,4,0
+2026-07-13,dept-lab,reports and lab,6,0
+2026-07-14,dept-lab,reports and lab,11,0
+2026-07-15,dept-lab,reports and lab,11,0
+2026-07-16,dept-lab,reports and lab,4,0
+2026-07-17,dept-lab,reports and lab,6,0
+2026-07-18,dept-lab,reports and lab,12,0
+2026-07-19,dept-lab,reports and lab,8,0
+2026-07-20,dept-lab,reports and lab,7,0
+2026-07-21,dept-lab,reports and lab,11,0
+2026-07-22,dept-lab,reports and lab,14,0
+2026-07-23,dept-lab,reports and lab,10,0
+2026-07-24,dept-lab,reports and lab,9,0
+2026-07-25,dept-lab,reports and lab,6,0
+2026-07-26,dept-lab,reports and lab,6,0
+2026-07-27,dept-lab,reports and lab,9,0
+2026-07-28,dept-lab,reports and lab,5,0
+2026-07-29,dept-lab,reports and lab,8,0
+2026-07-30,dept-lab,reports and lab,10,0
+2026-07-31,dept-lab,reports and lab,8,0
+2026-08-01,dept-lab,reports and lab,10,0
+2026-08-02,dept-lab,reports and lab,5,0
+2026-08-03,dept-lab,reports and lab,6,0
+2026-08-04,dept-lab,reports and lab,8,0
+2026-08-05,dept-lab,reports and lab,17,0
+2026-08-06,dept-lab,reports and lab,13,0
+2026-08-07,dept-lab,reports and lab,6,0
+2026-08-08,dept-lab,reports and lab,17,0
+2026-08-09,dept-lab,reports and lab,4,0
+2026-08-10,dept-lab,reports and lab,11,0
+2026-08-11,dept-lab,reports and lab,8,0
+2026-08-12,dept-lab,reports and lab,11,0
+2026-08-13,dept-lab,reports and lab,34,1
+2026-08-14,dept-lab,reports and lab,5,0
+2026-08-15,dept-lab,reports and lab,8,0
+2026-08-16,dept-lab,reports and lab,7,0
+2026-08-17,dept-lab,reports and lab,6,0
+2026-08-18,dept-lab,reports and lab,7,0
+2026-08-19,dept-lab,reports and lab,10,0
+2026-08-20,dept-lab,reports and lab,9,0
+2026-08-21,dept-lab,reports and lab,12,0
+2026-08-22,dept-lab,reports and lab,9,0
+2026-08-23,dept-lab,reports and lab,4,0
+2026-08-24,dept-lab,reports and lab,6,0
+2026-08-25,dept-lab,reports and lab,11,0
+2026-08-26,dept-lab,reports and lab,5,0
+2026-08-27,dept-lab,reports and lab,11,0
+2026-08-28,dept-lab,reports and lab,9,0
+2026-08-29,dept-lab,reports and lab,9,0
+2026-08-30,dept-lab,reports and lab,5,0
+2026-08-31,dept-lab,reports and lab,6,0
+2026-09-01,dept-lab,reports and lab,8,0
+2026-09-02,dept-lab,reports and lab,12,0
+2026-09-03,dept-lab,reports and lab,1,0
+2026-09-04,dept-lab,reports and lab,11,0
+2026-09-05,dept-lab,reports and lab,12,0
+2026-09-06,dept-lab,reports and lab,4,0
+2026-09-07,dept-lab,reports and lab,6,0
+2026-09-08,dept-lab,reports and lab,12,0
+2026-09-09,dept-lab,reports and lab,8,0
+2026-09-10,dept-lab,reports and lab,9,0
+2026-09-11,dept-lab,reports and lab,9,0
+2026-09-12,dept-lab,reports and lab,13,0
+2026-09-13,dept-lab,reports and lab,6,0
+2026-09-14,dept-lab,reports and lab,8,0
+2026-09-15,dept-lab,reports and lab,4,0
+2026-09-16,dept-lab,reports and lab,8,0
+2026-09-17,dept-lab,reports and lab,12,0
+2026-09-18,dept-lab,reports and lab,9,0
+2026-09-19,dept-lab,reports and lab,9,0
+2026-09-20,dept-lab,reports and lab,5,0
+2026-09-21,dept-lab,reports and lab,6,0
+2026-09-22,dept-lab,reports and lab,8,0
+2026-09-23,dept-lab,reports and lab,7,0
+2026-09-24,dept-lab,reports and lab,2,0
+2026-09-25,dept-lab,reports and lab,7,0
+2026-09-26,dept-lab,reports and lab,10,0
+2026-09-27,dept-lab,reports and lab,5,0
+2026-09-28,dept-lab,reports and lab,6,0
+2026-09-29,dept-lab,reports and lab,8,0
+2026-09-30,dept-lab,reports and lab,7,0
+2026-10-01,dept-lab,reports and lab,7,0
+2026-10-02,dept-lab,reports and lab,10,0
+2026-10-03,dept-lab,reports and lab,12,0
+2026-10-04,dept-lab,reports and lab,5,0
+2026-10-05,dept-lab,reports and lab,9,0
+2026-10-06,dept-lab,reports and lab,6,0
+2026-10-07,dept-lab,reports and lab,6,0
+2026-10-08,dept-lab,reports and lab,6,0
+2026-10-09,dept-lab,reports and lab,13,0
+2026-10-10,dept-lab,reports and lab,32,1
+2026-10-11,dept-lab,reports and lab,4,0
+2026-10-12,dept-lab,reports and lab,11,0
+2026-10-13,dept-lab,reports and lab,7,0
+2026-10-14,dept-lab,reports and lab,10,0
+2026-10-15,dept-lab,reports and lab,12,0
+2026-10-16,dept-lab,reports and lab,12,0
+2026-10-17,dept-lab,reports and lab,9,0
+2026-10-18,dept-lab,reports and lab,3,0
+2026-10-19,dept-lab,reports and lab,12,0
+2026-10-20,dept-lab,reports and lab,9,0
+2026-10-21,dept-lab,reports and lab,8,0
+2026-10-22,dept-lab,reports and lab,8,0
+2026-10-23,dept-lab,reports and lab,10,0
+2026-10-24,dept-lab,reports and lab,10,0
+2026-10-25,dept-lab,reports and lab,3,0
+2026-10-26,dept-lab,reports and lab,10,0
+2026-10-27,dept-lab,reports and lab,6,0
+2026-05-01,dept-ward,nursing care,4,0
+2026-05-02,dept-ward,nursing care,3,0
+2026-05-03,dept-ward,nursing care,3,0
+2026-05-04,dept-ward,nursing care,2,0
+2026-05-05,dept-ward,nursing care,5,0
+2026-05-06,dept-ward,nursing care,1,0
+2026-05-07,dept-ward,nursing care,2,0
+2026-05-08,dept-ward,nursing care,2,0
+2026-05-09,dept-ward,nursing care,3,0
+2026-05-10,dept-ward,nursing care,2,0
+2026-05-11,dept-ward,nursing care,1,0
+2026-05-12,dept-ward,nursing care,3,0
+2026-05-13,dept-ward,nursing care,5,0
+2026-05-14,dept-ward,nursing care,2,0
+2026-05-15,dept-ward,nursing care,2,0
+2026-05-16,dept-ward,nursing care,7,0
+2026-05-17,dept-ward,nursing care,1,0
+2026-05-18,dept-ward,nursing care,1,0
+2026-05-19,dept-ward,nursing care,6,0
+2026-05-20,dept-ward,nursing care,4,0
+2026-05-21,dept-ward,nursing care,1,0
+2026-05-22,dept-ward,nursing care,3,0
+2026-05-23,dept-ward,nursing care,2,0
+2026-05-24,dept-ward,nursing care,3,0
+2026-05-25,dept-ward,nursing care,2,0
+2026-05-26,dept-ward,nursing care,3,0
+2026-05-27,dept-ward,nursing care,4,0
+2026-05-28,dept-ward,nursing care,2,0
+2026-05-29,dept-ward,nursing care,4,0
+2026-05-30,dept-ward,nursing care,2,0
+2026-05-31,dept-ward,nursing care,1,0
+2026-06-01,dept-ward,nursing care,2,0
+2026-06-02,dept-ward,nursing care,5,0
+2026-06-03,dept-ward,nursing care,1,0
+2026-06-04,dept-ward,nursing care,3,0
+2026-06-05,dept-ward,nursing care,2,0
+2026-06-06,dept-ward,nursing care,3,0
+2026-06-07,dept-ward,nursing care,2,0
+2026-06-08,dept-ward,nursing care,2,0
+2026-06-09,dept-ward,nursing care,8,0
+2026-06-10,dept-ward,nursing care,1,0
+2026-06-11,dept-ward,nursing care,6,0
+2026-06-12,dept-ward,nursing care,4,0
+2026-06-13,dept-ward,nursing care,5,0
+2026-06-14,dept-ward,nursing care,2,0
+2026-06-15,dept-ward,nursing care,2,0
+2026-06-16,dept-ward,nursing care,1,0
+2026-06-17,dept-ward,nursing care,2,0
+2026-06-18,dept-ward,nursing care,5,0
+2026-06-19,dept-ward,nursing care,6,0
+2026-06-20,dept-ward,nursing care,9,0
+2026-06-21,dept-ward,nursing care,1,0
+2026-06-22,dept-ward,nursing care,4,0
+2026-06-23,dept-ward,nursing care,3,0
+2026-06-24,dept-ward,nursing care,3,0
+2026-06-25,dept-ward,nursing care,1,0
+2026-06-26,dept-ward,nursing care,5,0
+2026-06-27,dept-ward,nursing care,4,0
+2026-06-28,dept-ward,nursing care,7,0
+2026-06-29,dept-ward,nursing care,5,0
+2026-06-30,dept-ward,nursing care,11,1
+2026-07-01,dept-ward,nursing care,2,0
+2026-07-02,dept-ward,nursing care,3,0
+2026-07-03,dept-ward,nursing care,1,0
+2026-07-04,dept-ward,nursing care,3,0
+2026-07-05,dept-ward,nursing care,3,0
+2026-07-06,dept-ward,nursing care,1,0
+2026-07-07,dept-ward,nursing care,3,0
+2026-07-08,dept-ward,nursing care,6,0
+2026-07-09,dept-ward,nursing care,7,0
+2026-07-10,dept-ward,nursing care,2,0
+2026-07-11,dept-ward,nursing care,3,0
+2026-07-12,dept-ward,nursing care,2,0
+2026-07-13,dept-ward,nursing care,0,0
+2026-07-14,dept-ward,nursing care,4,0
+2026-07-15,dept-ward,nursing care,3,0
+2026-07-16,dept-ward,nursing care,5,0
+2026-07-17,dept-ward,nursing care,1,0
+2026-07-18,dept-ward,nursing care,1,0
+2026-07-19,dept-ward,nursing care,5,0
+2026-07-20,dept-ward,nursing care,3,0
+2026-07-21,dept-ward,nursing care,7,0
+2026-07-22,dept-ward,nursing care,7,0
+2026-07-23,dept-ward,nursing care,0,0
+2026-07-24,dept-ward,nursing care,4,0
+2026-07-25,dept-ward,nursing care,2,0
+2026-07-26,dept-ward,nursing care,1,0
+2026-07-27,dept-ward,nursing care,2,0
+2026-07-28,dept-ward,nursing care,0,0
+2026-07-29,dept-ward,nursing care,2,0
+2026-07-30,dept-ward,nursing care,4,0
+2026-07-31,dept-ward,nursing care,5,0
+2026-08-01,dept-ward,nursing care,1,0
+2026-08-02,dept-ward,nursing care,2,0
+2026-08-03,dept-ward,nursing care,1,0
+2026-08-04,dept-ward,nursing care,2,0
+2026-08-05,dept-ward,nursing care,7,0
+2026-08-06,dept-ward,nursing care,2,0
+2026-08-07,dept-ward,nursing care,4,0
+2026-08-08,dept-ward,nursing care,4,0
+2026-08-09,dept-ward,nursing care,1,0
+2026-08-10,dept-ward,nursing care,1,0
+2026-08-11,dept-ward,nursing care,3,0
+2026-08-12,dept-ward,nursing care,2,0
+2026-08-13,dept-ward,nursing care,4,0
+2026-08-14,dept-ward,nursing care,1,0
+2026-08-15,dept-ward,nursing care,3,0
+2026-08-16,dept-ward,nursing care,1,0
+2026-08-17,dept-ward,nursing care,1,0
+2026-08-18,dept-ward,nursing care,4,0
+2026-08-19,dept-ward,nursing care,0,0
+2026-08-20,dept-ward,nursing care,5,0
+2026-08-21,dept-ward,nursing care,4,0
+2026-08-22,dept-ward,nursing care,5,0
+2026-08-23,dept-ward,nursing care,2,0
+2026-08-24,dept-ward,nursing care,12,1
+2026-08-25,dept-ward,nursing care,5,0
+2026-08-26,dept-ward,nursing care,1,0
+2026-08-27,dept-ward,nursing care,3,0
+2026-08-28,dept-ward,nursing care,3,0
+2026-08-29,dept-ward,nursing care,3,0
+2026-08-30,dept-ward,nursing care,2,0
+2026-08-31,dept-ward,nursing care,2,0
+2026-09-01,dept-ward,nursing care,4,0
+2026-09-02,dept-ward,nursing care,2,0
+2026-09-03,dept-ward,nursing care,4,0
+2026-09-04,dept-ward,nursing care,4,0
+2026-09-05,dept-ward,nursing care,4,0
+2026-09-06,dept-ward,nursing care,1,0
+2026-09-07,dept-ward,nursing care,4,0
+2026-09-08,dept-ward,nursing care,7,0
+2026-09-09,dept-ward,nursing care,3,0
+2026-09-10,dept-ward,nursing care,8,0
+2026-09-11,dept-ward,nursing care,3,0
+2026-09-12,dept-ward,nursing care,2,0
+2026-09-13,dept-ward,nursing care,2,0
+2026-09-14,dept-ward,nursing care,1,0
+2026-09-15,dept-ward,nursing care,5,0
+2026-09-16,dept-ward,nursing care,2,0
+2026-09-17,dept-ward,nursing care,3,0
+2026-09-18,dept-ward,nursing care,1,0
+2026-09-19,dept-ward,nursing care,3,0
+2026-09-20,dept-ward,nursing care,5,0
+2026-09-21,dept-ward,nursing care,6,0
+2026-09-22,dept-ward,nursing care,1,0
+2026-09-23,dept-ward,nursing care,4,0
+2026-09-24,dept-ward,nursing care,7,0
+2026-09-25,dept-ward,nursing care,6,0
+2026-09-26,dept-ward,nursing care,2,0
+2026-09-27,dept-ward,nursing care,3,0
+2026-09-28,dept-ward,nursing care,11,1
+2026-09-29,dept-ward,nursing care,4,0
+2026-09-30,dept-ward,nursing care,4,0
+2026-10-01,dept-ward,nursing care,1,0
+2026-10-02,dept-ward,nursing care,4,0
+2026-10-03,dept-ward,nursing care,6,0
+2026-10-04,dept-ward,nursing care,2,0
+2026-10-05,dept-ward,nursing care,3,0
+2026-10-06,dept-ward,nursing care,3,0
+2026-10-07,dept-ward,nursing care,4,0
+2026-10-08,dept-ward,nursing care,5,0
+2026-10-09,dept-ward,nursing care,3,0
+2026-10-10,dept-ward,nursing care,1,0
+2026-10-11,dept-ward,nursing care,2,0
+2026-10-12,dept-ward,nursing care,3,0
+2026-10-13,dept-ward,nursing care,0,0
+2026-10-14,dept-ward,nursing care,1,0
+2026-10-15,dept-ward,nursing care,5,0
+2026-10-16,dept-ward,nursing care,0,0
+2026-10-17,dept-ward,nursing care,4,0
+2026-10-18,dept-ward,nursing care,4,0
+2026-10-19,dept-ward,nursing care,5,0
+2026-10-20,dept-ward,nursing care,3,0
+2026-10-21,dept-ward,nursing care,3,0
+2026-10-22,dept-ward,nursing care,5,0
+2026-10-23,dept-ward,nursing care,2,0
+2026-10-24,dept-ward,nursing care,3,0
+2026-10-25,dept-ward,nursing care,2,0
+2026-10-26,dept-ward,nursing care,2,0
+2026-10-27,dept-ward,nursing care,2,0
+2026-05-01,dept-diet,food,4,0
+2026-05-02,dept-diet,food,2,0
+2026-05-03,dept-diet,food,1,0
+2026-05-04,dept-diet,food,4,0
+2026-05-05,dept-diet,food,3,0
+2026-05-06,dept-diet,food,3,0
+2026-05-07,dept-diet,food,2,0
+2026-05-08,dept-diet,food,4,0
+2026-05-09,dept-diet,food,1,0
+2026-05-10,dept-diet,food,0,0
+2026-05-11,dept-diet,food,2,0
+2026-05-12,dept-diet,food,1,0
+2026-05-13,dept-diet,food,1,0
+2026-05-14,dept-diet,food,0,0
+2026-05-15,dept-diet,food,0,0
+2026-05-16,dept-diet,food,1,0
+2026-05-17,dept-diet,food,2,0
+2026-05-18,dept-diet,food,3,0
+2026-05-19,dept-diet,food,6,0
+2026-05-20,dept-diet,food,0,0
+2026-05-21,dept-diet,food,2,0
+2026-05-22,dept-diet,food,2,0
+2026-05-23,dept-diet,food,2,0
+2026-05-24,dept-diet,food,2,0
+2026-05-25,dept-diet,food,1,0
+2026-05-26,dept-diet,food,1,0
+2026-05-27,dept-diet,food,1,0
+2026-05-28,dept-diet,food,2,0
+2026-05-29,dept-diet,food,2,0
+2026-05-30,dept-diet,food,3,0
+2026-05-31,dept-diet,food,2,0
+2026-06-01,dept-diet,food,3,0
+2026-06-02,dept-diet,food,3,0
+2026-06-03,dept-diet,food,0,0
+2026-06-04,dept-diet,food,2,0
+2026-06-05,dept-diet,food,3,0
+2026-06-06,dept-diet,food,1,0
+2026-06-07,dept-diet,food,0,0
+2026-06-08,dept-diet,food,1,0
+2026-06-09,dept-diet,food,3,0
+2026-06-10,dept-diet,food,3,0
+2026-06-11,dept-diet,food,1,0
+2026-06-12,dept-diet,food,3,0
+2026-06-13,dept-diet,food,3,0
+2026-06-14,dept-diet,food,0,0
+2026-06-15,dept-diet,food,1,0
+2026-06-16,dept-diet,food,2,0
+2026-06-17,dept-diet,food,4,0
+2026-06-18,dept-diet,food,0,0
+2026-06-19,dept-diet,food,1,0
+2026-06-20,dept-diet,food,10,1
+2026-06-21,dept-diet,food,1,0
+2026-06-22,dept-diet,food,4,0
+2026-06-23,dept-diet,food,1,0
+2026-06-24,dept-diet,food,2,0
+2026-06-25,dept-diet,food,2,0
+2026-06-26,dept-diet,food,3,0
+2026-06-27,dept-diet,food,3,0
+2026-06-28,dept-diet,food,0,0
+2026-06-29,dept-diet,food,4,0
+2026-06-30,dept-diet,food,5,0
+2026-07-01,dept-diet,food,2,0
+2026-07-02,dept-diet,food,7,0
+2026-07-03,dept-diet,food,1,0
+2026-07-04,dept-diet,food,0,0
+2026-07-05,dept-diet,food,1,0
+2026-07-06,dept-diet,food,1,0
+2026-07-07,dept-diet,food,1,0
+2026-07-08,dept-diet,food,2,0
+2026-07-09,dept-diet,food,1,0
+2026-07-10,dept-diet,food,1,0
+2026-07-11,dept-diet,food,1,0
+2026-07-12,dept-diet,food,1,0
+2026-07-13,dept-diet,food,2,0
+2026-07-14,dept-diet,food,2,0
+2026-07-15,dept-diet,food,1,0
+2026-07-16,dept-diet,food,3,0
+2026-07-17,dept-diet,food,3,0
+2026-07-18,dept-diet,food,1,0
+2026-07-19,dept-diet,food,1,0
+2026-07-20,dept-diet,food,2,0
+2026-07-21,dept-diet,food,3,0
+2026-07-22,dept-diet,food,2,0
+2026-07-23,dept-diet,food,2,0
+2026-07-24,dept-diet,food,2,0
+2026-07-25,dept-diet,food,2,0
+2026-07-26,dept-diet,food,1,0
+2026-07-27,dept-diet,food,1,0
+2026-07-28,dept-diet,food,2,0
+2026-07-29,dept-diet,food,2,0
+2026-07-30,dept-diet,food,3,0
+2026-07-31,dept-diet,food,2,0
+2026-08-01,dept-diet,food,1,0
+2026-08-02,dept-diet,food,2,0
+2026-08-03,dept-diet,food,3,0
+2026-08-04,dept-diet,food,2,0
+2026-08-05,dept-diet,food,4,0
+2026-08-06,dept-diet,food,1,0
+2026-08-07,dept-diet,food,0,0
+2026-08-08,dept-diet,food,10,1
+2026-08-09,dept-diet,food,3,0
+2026-08-10,dept-diet,food,2,0
+2026-08-11,dept-diet,food,2,0
+2026-08-12,dept-diet,food,0,0
+2026-08-13,dept-diet,food,1,0
+2026-08-14,dept-diet,food,2,0
+2026-08-15,dept-diet,food,6,0
+2026-08-16,dept-diet,food,1,0
+2026-08-17,dept-diet,food,3,0
+2026-08-18,dept-diet,food,2,0
+2026-08-19,dept-diet,food,2,0
+2026-08-20,dept-diet,food,4,0
+2026-08-21,dept-diet,food,1,0
+2026-08-22,dept-diet,food,3,0
+2026-08-23,dept-diet,food,0,0
+2026-08-24,dept-diet,food,2,0
+2026-08-25,dept-diet,food,2,0
+2026-08-26,dept-diet,food,2,0
+2026-08-27,dept-diet,food,5,0
+2026-08-28,dept-diet,food,3,0
+2026-08-29,dept-diet,food,2,0
+2026-08-30,dept-diet,food,1,0
+2026-08-31,dept-diet,food,0,0
+2026-09-01,dept-diet,food,3,0
+2026-09-02,dept-diet,food,1,0
+2026-09-03,dept-diet,food,2,0
+2026-09-04,dept-diet,food,5,0
+2026-09-05,dept-diet,food,1,0
+2026-09-06,dept-diet,food,0,0
+2026-09-07,dept-diet,food,1,0
+2026-09-08,dept-diet,food,4,0
+2026-09-09,dept-diet,food,2,0
+2026-09-10,dept-diet,food,4,0
+2026-09-11,dept-diet,food,1,0
+2026-09-12,dept-diet,food,2,0
+2026-09-13,dept-diet,food,1,0
+2026-09-14,dept-diet,food,6,0
+2026-09-15,dept-diet,food,2,0
+2026-09-16,dept-diet,food,2,0
+2026-09-17,dept-diet,food,1,0
+2026-09-18,dept-diet,food,3,0
+2026-09-19,dept-diet,food,1,0
+2026-09-20,dept-diet,food,3,0
+2026-09-21,dept-diet,food,1,0
+2026-09-22,dept-diet,food,1,0
+2026-09-23,dept-diet,food,10,1
+2026-09-24,dept-diet,food,3,0
+2026-09-25,dept-diet,food,2,0
+2026-09-26,dept-diet,food,6,0
+2026-09-27,dept-diet,food,3,0
+2026-09-28,dept-diet,food,0,0
+2026-09-29,dept-diet,food,5,0
+2026-09-30,dept-diet,food,1,0
+2026-10-01,dept-diet,food,2,0
+2026-10-02,dept-diet,food,2,0
+2026-10-03,dept-diet,food,0,0
+2026-10-04,dept-diet,food,1,0
+2026-10-05,dept-diet,food,2,0
+2026-10-06,dept-diet,food,1,0
+2026-10-07,dept-diet,food,1,0
+2026-10-08,dept-diet,food,3,0
+2026-10-09,dept-diet,food,2,0
+2026-10-10,dept-diet,food,1,0
+2026-10-11,dept-diet,food,0,0
+2026-10-12,dept-diet,food,1,0
+2026-10-13,dept-diet,food,3,0
+2026-10-14,dept-diet,food,3,0
+2026-10-15,dept-diet,food,3,0
+2026-10-16,dept-diet,food,3,0
+2026-10-17,dept-diet,food,2,0
+2026-10-18,dept-diet,food,0,0
+2026-10-19,dept-diet,food,0,0
+2026-10-20,dept-diet,food,0,0
+2026-10-21,dept-diet,food,4,0
+2026-10-22,dept-diet,food,2,0
+2026-10-23,dept-diet,food,3,0
+2026-10-24,dept-diet,food,3,0
+2026-10-25,dept-diet,food,0,0
+2026-10-26,dept-diet,food,2,0
+2026-10-27,dept-diet,food,0,0
