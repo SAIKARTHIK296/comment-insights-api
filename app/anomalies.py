@@ -20,7 +20,7 @@ def _poisson_upper_threshold(lam: float, tail_prob: float = 0.005) -> int:
 
 
 class AnomalyEngine:
-    def __init__(self, window_days: int = 28, min_history: int = 14, z_threshold: float = 3.5, min_absolute_jump: int = 3) -> None:
+    def __init__(self, window_days: int = 28, min_history: int = 14, z_threshold: float = 3.2, min_absolute_jump: int = 3) -> None:
         self.window_days = window_days
         self.min_history = min_history
         self.z_threshold = z_threshold
@@ -41,8 +41,14 @@ class AnomalyEngine:
                 curr_date, curr_count = series[idx]
                 lookback = series[max(0, idx - self.window_days) : idx]
                 is_sunday = curr_date.weekday() == 6
-                bucket = [cnt for dt, cnt in lookback if (dt.weekday() == 6) == is_sunday]
-                if len(bucket) >= 7:
+                if is_sunday:
+                    sunday_lookback = series[max(0, idx - 56) : idx]
+                    bucket = [cnt for dt, cnt in sunday_lookback if dt.weekday() == 6]
+                    min_bucket = 3
+                else:
+                    bucket = [cnt for dt, cnt in lookback if dt.weekday() != 6]
+                    min_bucket = 7
+                if len(bucket) >= min_bucket:
                     vals = np.array(bucket, dtype=float)
                     label = "Sunday" if is_sunday else "weekday"
                 else:
