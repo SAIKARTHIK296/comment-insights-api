@@ -1,8 +1,13 @@
 import os
+import time
+import uuid
 from contextlib import asynccontextmanager
+
 from fastapi import Body, Depends, FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import RedirectResponse
 from starlette.concurrency import run_in_threadpool
+
 from app.anomalies import AnomalyEngine
 from app.auth import validate_auth_config, verify_token
 from app.language import LanguageDetector
@@ -37,7 +42,16 @@ async def lifespan(app: FastAPI):
     yield
 
 
-app = FastAPI(title="Comment Insights API", version="1.0.0", lifespan=lifespan)
+app = FastAPI(
+    title="Comment Insights API",
+    version="1.0.0",
+    lifespan=lifespan,
+    swagger_ui_parameters={
+        "persistAuthorization": True,
+        "displayRequestDuration": True,
+        "defaultModelsExpandDepth": -1,
+    },
+)
 
 allowed_origins = get_allowed_origins()
 if allowed_origins:
@@ -48,6 +62,22 @@ if allowed_origins:
         allow_methods=["GET", "POST"],
         allow_headers=["Authorization", "Content-Type"],
     )
+
+
+@app.middleware("http")
+async def add_observability_headers(request: Request, call_next):
+    request_id = request.headers.get("X-Request-ID") or str(uuid.uuid4())
+    start = time.perf_counter()
+    response = await call_next(request)
+    elapsed_ms = (time.perf_counter() - start) * 1000.0
+    response.headers["X-Request-ID"] = request_id
+    response.headers["X-Process-Time-Ms"] = f"{elapsed_ms:.2f}"
+    return response
+
+
+@app.get("/", include_in_schema=False)
+async def root() -> RedirectResponse:
+    return RedirectResponse(url="/docs")
 
 
 @app.get("/health")
