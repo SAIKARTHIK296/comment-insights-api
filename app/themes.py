@@ -2,8 +2,10 @@ import json
 import os
 from pathlib import Path
 from typing import Callable
+
 import joblib
 import numpy as np
+
 from app.schemas import ThemePrediction, ThemeRequestItem, ThemeResponseItem
 from app.text_utils import MODELS_DIR, clean_and_expand_hospital_text, split_mixed_clauses
 
@@ -38,16 +40,37 @@ class ThemeEngine:
         self.thresholds: dict[str, float] = dict(artifact["thresholds"])
         self.model_version: str = str(artifact["model_version"])
         meta_path = self.model_path.with_suffix(".json")
-        self.metadata = json.loads(meta_path.read_text(encoding="utf-8")) if meta_path.exists() else {"modelVersion": self.model_version}
+        self.metadata = (
+            json.loads(meta_path.read_text(encoding="utf-8"))
+            if meta_path.exists()
+            else {"modelVersion": self.model_version}
+        )
+
+    def _detect_language(self, item: ThemeRequestItem) -> str:
+        if item.text is None or not str(item.text).strip():
+            return "unknown"
+        if item.language and item.language.strip():
+            return item.language.strip().lower()
+        if self.language_detector is not None:
+            return self.language_detector(item.text)
+        return "unknown"
 
     def predict_text(self, text: str | None) -> tuple[list[ThemePrediction], str | None]:
         if text is None or not str(text).strip():
             return [], "missing_or_empty_text"
-        clauses = split_mixed_clauses(str(text))
+
+        raw_text = str(text).strip()
+        clauses = split_mixed_clauses(raw_text)
         cleaned = [clean_and_expand_hospital_text(c) for c in clauses]
         cleaned = [c for c in cleaned if c]
+
         if not cleaned:
+            # Keep valid non-Latin scripts (Malayalam, Hindi, Arabic) from being
+            # mislabeled as missing/empty after ASCII text normalization.
+            if any(ch.isalpha() for ch in raw_text):
+                return [], None
             return [], "missing_or_empty_text"
+
         probs = self.pipeline.predict_proba(cleaned)
         max_probs = np.max(probs, axis=0)
         results: list[ThemePrediction] = []
@@ -62,14 +85,7 @@ class ThemeEngine:
         responses: list[ThemeResponseItem] = []
         for item in items:
             themes, omitted_reason = self.predict_text(item.text)
-            if omitted_reason is not None:
-                lang = "unknown"
-            elif item.language and item.language.strip():
-                lang = item.language.strip().lower()
-            elif self.language_detector is not None:
-                lang = self.language_detector(item.text)
-            else:
-                lang = "unknown"
+            lang = self._detect_language(item)
             responses.append(
                 ThemeResponseItem(
                     id=item.id,
