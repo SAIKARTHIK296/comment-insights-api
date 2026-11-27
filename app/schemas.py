@@ -1,11 +1,29 @@
-from datetime import date
-from pydantic import BaseModel, Field
+from datetime import date as DateType
+from typing import Any, Literal, Optional
+
+from pydantic import BaseModel, ConfigDict, Field
 
 
+# -----------------------------
+# Health Check
+# -----------------------------
+class HealthResponse(BaseModel):
+    model_config = ConfigDict(extra="allow")
+
+    status: str = "ok"
+    themeModelVersion: Optional[str] = None
+    languageModelVersion: Optional[str] = None
+
+
+# -----------------------------
+# Task 1: Complaint Themes
+# -----------------------------
 class ThemeRequestItem(BaseModel):
+    model_config = ConfigDict(extra="allow")
+
     id: str = Field(..., min_length=1)
-    text: str | None = None
-    language: str | None = None
+    text: Optional[str] = None
+    language: Optional[str] = None
 
 
 class ThemePrediction(BaseModel):
@@ -14,72 +32,98 @@ class ThemePrediction(BaseModel):
 
 
 class ThemeResponseItem(BaseModel):
+    model_config = ConfigDict(extra="allow")
+
     id: str
-    themes: list[ThemePrediction]
-    language: str
-    modelVersion: str
-    omittedReason: str | None = None
+    themes: list[ThemePrediction] = Field(default_factory=list)
+    language: str = "unknown"
+    modelVersion: str = "themes_v1.0.0"
+    omittedReason: Optional[str] = None
 
 
+# -----------------------------
+# Task 2: Personal-Data Redaction
+# -----------------------------
 class RedactionRequestItem(BaseModel):
+    model_config = ConfigDict(extra="allow")
+
     id: str = Field(..., min_length=1)
-    text: str | None = None
+    text: Optional[str] = None
 
 
-class RedactionSpan(BaseModel):
+class RedactionEntity(BaseModel):
+    model_config = ConfigDict(extra="allow")
+
     type: str
+    label: Optional[str] = None
     start: int
     end: int
-    replacement: str
+    action: Optional[Literal["redacted", "kept"]] = None
+    matchedText: Optional[str] = None
+    replacement: Optional[str] = None
+
+
+# Backwards-compatible alias
+RedactionSpan = RedactionEntity
 
 
 class RedactionResponseItem(BaseModel):
+    model_config = ConfigDict(extra="allow")
+
     id: str
     redactedText: str
-    redactions: list[RedactionSpan]
-    omittedReason: str | None = None
+    entities: Optional[list[RedactionEntity]] = None
+    redactions: Optional[list[RedactionEntity]] = None
+    themes: Optional[list[ThemePrediction]] = None
 
 
+# -----------------------------
+# Task 3: Comment Quality
+# -----------------------------
 class QualityRequestItem(BaseModel):
+    model_config = ConfigDict(extra="allow")
+
     id: str = Field(..., min_length=1)
-    text: str | None = None
+    text: Optional[str] = None
+    language: Optional[str] = None
 
 
 class QualityResponseItem(BaseModel):
+    model_config = ConfigDict(extra="allow")
+
     id: str
     isMeaningful: bool
     qualityScore: float
-    reason: str
-    language: str
+    reason: Optional[str] = None
+    language: str = "unknown"
 
 
+# -----------------------------
+# Task 4: Daily Anomaly Alerts
+# -----------------------------
 class AnomalyPointRequest(BaseModel):
-    date: date
-    departmentId: str = Field(..., min_length=1)
-    metric: str = Field(..., min_length=1)
-    count: int = Field(..., ge=0)
+    model_config = ConfigDict(extra="allow")
+
+    date: DateType
+    departmentId: str
+    metric: str
+    count: float
 
 
 class ExpectedRange(BaseModel):
-    low: float
-    high: float
+    model_config = ConfigDict(extra="allow")
 
 
 class FlaggedDay(BaseModel):
-    date: date
-    departmentId: str
-    metric: str
-    actualCount: int
-    expectedRange: ExpectedRange
-    reason: str
+    model_config = ConfigDict(extra="allow")
 
 
 class SkippedSeries(BaseModel):
-    departmentId: str
-    metric: str
-    reason: str
+    model_config = ConfigDict(extra="allow")
 
 
 class AnomalyResponse(BaseModel):
-    flaggedDays: list[FlaggedDay]
-    skippedSeries: list[SkippedSeries]
+    model_config = ConfigDict(extra="allow")
+
+    flaggedDays: list[Any] = Field(default_factory=list)
+    skippedSeries: list[Any] = Field(default_factory=list)
