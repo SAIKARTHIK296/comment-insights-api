@@ -1,20 +1,21 @@
 {
   "modelVersion": "themes_v1.0.0",
-  "modelType": "upgrade",
-  "trainedAtUtc": "2026-11-23T16:00:01.427597+00:00",
-  "cvMacroF1": 1.0,
-  "overfitGap": 0.0,
+  "modelType": "multilingual",
+  "encoder": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "trainedAtUtc": "2026-11-27T16:47:25.577846+00:00",
+  "cvMacroF1": 0.9857,
+  "overfitGap": 0.0025,
   "thresholds": {
-    "waiting time": 0.35,
-    "staff behaviour": 0.35,
-    "doctor communication": 0.35,
-    "nursing care": 0.35,
-    "billing and insurance": 0.35,
-    "cleanliness": 0.35,
-    "food": 0.35,
-    "facilities and parking": 0.35,
-    "appointments": 0.35,
-    "reports and lab": 0.35,
-    "pharmacy": 0.35
+    "waiting time": 0.6,
+    "staff behaviour": 0.65,
+    "doctor communication": 0.65,
+    "nursing care": 0.75,
+    "billing and insurance": 0.6,
+    "cleanliness": 0.6,
+    "food": 0.6,
+    "facilities and parking": 0.7,
+    "appointments": 0.65,
+    "reports and lab": 0.6,
+    "pharmacy": 0.65
   }
 }
